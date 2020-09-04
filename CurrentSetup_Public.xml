@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="9/2/2020 9:34:48 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="9/4/2020 3:30:36 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -10896,239 +10896,6 @@
   </Character>
   <Character>
     <ExecuteOnLoad />
-    <Name>----RandomCharacters----</Name>
-    <AccountName />
-    <SubAccountName />
-    <ServerName />
-    <ActualName />
-    <Game>World of Warcraft</Game>
-    <GameProfile>World of Warcraft Client (DirectX 11 Legacy)</GameProfile>
-    <KnownGame>Unknown</KnownGame>
-    <RelayGroupStrings />
-    <KeyMapStrings />
-    <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
-    <KeyMapWhiteOrBlackList />
-    <ClickBarStrings />
-    <MenuInstances />
-    <VirtualFileTargets />
-    <WoWMacroSets />
-    <CrypticMacroSets />
-    <VirtualMappedKeys />
-    <VariableKeystrokeInstances />
-  </Character>
-  <Character>
-    <ExecuteOnLoad />
-    <Name>Vndinmchine-Eitrigg-Character6SubAccount</Name>
-    <AccountName />
-    <SubAccountName>Character6SubAccount</SubAccountName>
-    <ServerName>Eitrigg</ServerName>
-    <ActualName>Vndinmchine</ActualName>
-    <Game>World of Warcraft</Game>
-    <GameProfile>World of Warcraft Client (DirectX 11 Legacy)</GameProfile>
-    <KnownGame>WoW</KnownGame>
-    <RelayGroupStrings>
-      <string>Follower</string>
-      <string>Combat</string>
-      <string>Ranged</string>
-      <string>Interrupt</string>
-    </RelayGroupStrings>
-    <KeyMapStrings>
-      <string>Mage - Arcane</string>
-      <string>Mage - Fire</string>
-      <string>Mage - Frost</string>
-    </KeyMapStrings>
-    <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
-    <KeyMapWhiteOrBlackList />
-    <ClickBarStrings />
-    <MenuInstances />
-    <VirtualFileTargets>
-      <VirtualFileTarget>
-        <Filename>Battle.net-Vndinmchine-Eitrigg.config</Filename>
-        <VirtualFileString>Battle.net.config</VirtualFileString>
-      </VirtualFileTarget>
-      <VirtualFileTarget>
-        <Filename>Config-Vndinmchine-Eitrigg.WTF</Filename>
-        <VirtualFileString>Config.WTF</VirtualFileString>
-      </VirtualFileTarget>
-      <VirtualFileTarget>
-        <Filename>Software/Blizzard Entertainment/Battle.net-ISBoxer/Vndinmchine-Eitrigg/</Filename>
-        <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
-      </VirtualFileTarget>
-    </VirtualFileTargets>
-    <WoWMacroSets />
-    <CrypticMacroSets />
-    <VirtualMappedKeys>
-      <VirtualMappedKey>
-        <FromMappedKey>
-          <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
-        </FromMappedKey>
-        <ToMappedKey>
-          <KeyMapString>Mage - Frost</KeyMapString>
-        </ToMappedKey>
-      </VirtualMappedKey>
-    </VirtualMappedKeys>
-    <VariableKeystrokeInstances />
-  </Character>
-  <Character>
-    <ExecuteOnLoad />
-    <Name>Firefel-Eitrigg-Character2SubAccount</Name>
-    <AccountName />
-    <SubAccountName>Character2SubAccount</SubAccountName>
-    <ServerName>Eitrigg</ServerName>
-    <ActualName>Firefel</ActualName>
-    <Game>World of Warcraft</Game>
-    <GameProfile>World of Warcraft Client (DirectX 11 Legacy)</GameProfile>
-    <KnownGame>WoW</KnownGame>
-    <RelayGroupStrings>
-      <string>Follower</string>
-      <string>Combat</string>
-      <string>Ranged</string>
-    </RelayGroupStrings>
-    <KeyMapStrings>
-      <string>Warlock - Affliction</string>
-      <string>Warlock - Demonology</string>
-      <string>Warlock - Destruction</string>
-    </KeyMapStrings>
-    <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
-    <KeyMapWhiteOrBlackList />
-    <ClickBarStrings />
-    <MenuInstances />
-    <VirtualFileTargets>
-      <VirtualFileTarget>
-        <Filename>Battle.net-Firefel-Eitrigg.config</Filename>
-        <VirtualFileString>Battle.net.config</VirtualFileString>
-      </VirtualFileTarget>
-      <VirtualFileTarget>
-        <Filename>Config-Firefel-Eitrigg.WTF</Filename>
-        <VirtualFileString>Config.WTF</VirtualFileString>
-      </VirtualFileTarget>
-      <VirtualFileTarget>
-        <Filename>Software/Blizzard Entertainment/Battle.net-ISBoxer/Firefel-Eitrigg/</Filename>
-        <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
-      </VirtualFileTarget>
-    </VirtualFileTargets>
-    <WoWMacroSets />
-    <CrypticMacroSets />
-    <VirtualMappedKeys>
-      <VirtualMappedKey>
-        <FromMappedKey>
-          <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
-        </FromMappedKey>
-        <ToMappedKey>
-          <KeyMapString>Warlock - Destruction</KeyMapString>
-        </ToMappedKey>
-      </VirtualMappedKey>
-    </VirtualMappedKeys>
-    <VariableKeystrokeInstances />
-  </Character>
-  <Character>
-    <ExecuteOnLoad />
-    <Name>Shadowfel-Eitrigg-Character6SubAccount</Name>
-    <AccountName />
-    <SubAccountName>Character6SubAccount</SubAccountName>
-    <ServerName>Eitrigg</ServerName>
-    <ActualName>Shadowfel</ActualName>
-    <Game>World of Warcraft</Game>
-    <GameProfile>World of Warcraft Client (DirectX 11 Legacy)</GameProfile>
-    <KnownGame>WoW</KnownGame>
-    <RelayGroupStrings>
-      <string>Follower</string>
-      <string>Combat</string>
-      <string>Ranged</string>
-    </RelayGroupStrings>
-    <KeyMapStrings>
-      <string>Warlock - Affliction</string>
-      <string>Warlock - Demonology</string>
-      <string>Warlock - Destruction</string>
-    </KeyMapStrings>
-    <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
-    <KeyMapWhiteOrBlackList />
-    <ClickBarStrings />
-    <MenuInstances />
-    <VirtualFileTargets>
-      <VirtualFileTarget>
-        <Filename>Battle.net-Shadowfel-Eitrigg.config</Filename>
-        <VirtualFileString>Battle.net.config</VirtualFileString>
-      </VirtualFileTarget>
-      <VirtualFileTarget>
-        <Filename>Config-Shadowfel-Eitrigg.WTF</Filename>
-        <VirtualFileString>Config.WTF</VirtualFileString>
-      </VirtualFileTarget>
-      <VirtualFileTarget>
-        <Filename>Software/Blizzard Entertainment/Battle.net-ISBoxer/Shadowfel-Eitrigg/</Filename>
-        <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
-      </VirtualFileTarget>
-    </VirtualFileTargets>
-    <WoWMacroSets />
-    <CrypticMacroSets />
-    <VirtualMappedKeys>
-      <VirtualMappedKey>
-        <FromMappedKey>
-          <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
-        </FromMappedKey>
-        <ToMappedKey>
-          <KeyMapString>Warlock - Affliction</KeyMapString>
-        </ToMappedKey>
-      </VirtualMappedKey>
-    </VirtualMappedKeys>
-    <VariableKeystrokeInstances />
-  </Character>
-  <Character>
-    <ExecuteOnLoad />
-    <Name>Hiwarr-Eitrigg-Character6SubAccount</Name>
-    <AccountName />
-    <SubAccountName>Character6SubAccount</SubAccountName>
-    <ServerName>Eitrigg</ServerName>
-    <ActualName>Hiwarr</ActualName>
-    <Game>World of Warcraft</Game>
-    <GameProfile>World of Warcraft Client (DirectX 11 Legacy)</GameProfile>
-    <KnownGame>WoW</KnownGame>
-    <RelayGroupStrings>
-      <string>Follower</string>
-      <string>Combat</string>
-      <string>Melee</string>
-      <string>Interrupt</string>
-      <string>Stun</string>
-    </RelayGroupStrings>
-    <KeyMapStrings>
-      <string>Warrior - Arms</string>
-      <string>Warrior - Fury</string>
-      <string>Warrior - Protection</string>
-    </KeyMapStrings>
-    <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
-    <KeyMapWhiteOrBlackList />
-    <ClickBarStrings />
-    <MenuInstances />
-    <VirtualFileTargets>
-      <VirtualFileTarget>
-        <Filename>Battle.net-Hiwarr-Eitrigg.config</Filename>
-        <VirtualFileString>Battle.net.config</VirtualFileString>
-      </VirtualFileTarget>
-      <VirtualFileTarget>
-        <Filename>Config-Hiwarr-Eitrigg.WTF</Filename>
-        <VirtualFileString>Config.WTF</VirtualFileString>
-      </VirtualFileTarget>
-      <VirtualFileTarget>
-        <Filename>Software/Blizzard Entertainment/Battle.net-ISBoxer/Hiwarr-Eitrigg/</Filename>
-        <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
-      </VirtualFileTarget>
-    </VirtualFileTargets>
-    <WoWMacroSets />
-    <CrypticMacroSets />
-    <VirtualMappedKeys>
-      <VirtualMappedKey>
-        <FromMappedKey>
-          <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
-        </FromMappedKey>
-        <ToMappedKey>
-          <KeyMapString>Warrior - Protection</KeyMapString>
-        </ToMappedKey>
-      </VirtualMappedKey>
-    </VirtualMappedKeys>
-    <VariableKeystrokeInstances />
-  </Character>
-  <Character>
-    <ExecuteOnLoad />
     <Name>----NatureShockas----</Name>
     <AccountName />
     <SubAccountName />
@@ -11781,6 +11548,239 @@
         </FromMappedKey>
         <ToMappedKey>
           <KeyMapString>Demon Hunter - Havoc</KeyMapString>
+        </ToMappedKey>
+      </VirtualMappedKey>
+    </VirtualMappedKeys>
+    <VariableKeystrokeInstances />
+  </Character>
+  <Character>
+    <ExecuteOnLoad />
+    <Name>----RandomCharacters----</Name>
+    <AccountName />
+    <SubAccountName />
+    <ServerName />
+    <ActualName />
+    <Game>World of Warcraft</Game>
+    <GameProfile>World of Warcraft Client (DirectX 11 Legacy)</GameProfile>
+    <KnownGame>Unknown</KnownGame>
+    <RelayGroupStrings />
+    <KeyMapStrings />
+    <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
+    <KeyMapWhiteOrBlackList />
+    <ClickBarStrings />
+    <MenuInstances />
+    <VirtualFileTargets />
+    <WoWMacroSets />
+    <CrypticMacroSets />
+    <VirtualMappedKeys />
+    <VariableKeystrokeInstances />
+  </Character>
+  <Character>
+    <ExecuteOnLoad />
+    <Name>Vndinmchine-Eitrigg-Character6SubAccount</Name>
+    <AccountName />
+    <SubAccountName>Character6SubAccount</SubAccountName>
+    <ServerName>Eitrigg</ServerName>
+    <ActualName>Vndinmchine</ActualName>
+    <Game>World of Warcraft</Game>
+    <GameProfile>World of Warcraft Client (DirectX 11 Legacy)</GameProfile>
+    <KnownGame>WoW</KnownGame>
+    <RelayGroupStrings>
+      <string>Follower</string>
+      <string>Combat</string>
+      <string>Ranged</string>
+      <string>Interrupt</string>
+    </RelayGroupStrings>
+    <KeyMapStrings>
+      <string>Mage - Arcane</string>
+      <string>Mage - Fire</string>
+      <string>Mage - Frost</string>
+    </KeyMapStrings>
+    <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
+    <KeyMapWhiteOrBlackList />
+    <ClickBarStrings />
+    <MenuInstances />
+    <VirtualFileTargets>
+      <VirtualFileTarget>
+        <Filename>Battle.net-Vndinmchine-Eitrigg.config</Filename>
+        <VirtualFileString>Battle.net.config</VirtualFileString>
+      </VirtualFileTarget>
+      <VirtualFileTarget>
+        <Filename>Config-Vndinmchine-Eitrigg.WTF</Filename>
+        <VirtualFileString>Config.WTF</VirtualFileString>
+      </VirtualFileTarget>
+      <VirtualFileTarget>
+        <Filename>Software/Blizzard Entertainment/Battle.net-ISBoxer/Vndinmchine-Eitrigg/</Filename>
+        <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
+      </VirtualFileTarget>
+    </VirtualFileTargets>
+    <WoWMacroSets />
+    <CrypticMacroSets />
+    <VirtualMappedKeys>
+      <VirtualMappedKey>
+        <FromMappedKey>
+          <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
+        </FromMappedKey>
+        <ToMappedKey>
+          <KeyMapString>Mage - Frost</KeyMapString>
+        </ToMappedKey>
+      </VirtualMappedKey>
+    </VirtualMappedKeys>
+    <VariableKeystrokeInstances />
+  </Character>
+  <Character>
+    <ExecuteOnLoad />
+    <Name>Firefel-Eitrigg-Character2SubAccount</Name>
+    <AccountName />
+    <SubAccountName>Character2SubAccount</SubAccountName>
+    <ServerName>Eitrigg</ServerName>
+    <ActualName>Firefel</ActualName>
+    <Game>World of Warcraft</Game>
+    <GameProfile>World of Warcraft Client (DirectX 11 Legacy)</GameProfile>
+    <KnownGame>WoW</KnownGame>
+    <RelayGroupStrings>
+      <string>Follower</string>
+      <string>Combat</string>
+      <string>Ranged</string>
+    </RelayGroupStrings>
+    <KeyMapStrings>
+      <string>Warlock - Affliction</string>
+      <string>Warlock - Demonology</string>
+      <string>Warlock - Destruction</string>
+    </KeyMapStrings>
+    <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
+    <KeyMapWhiteOrBlackList />
+    <ClickBarStrings />
+    <MenuInstances />
+    <VirtualFileTargets>
+      <VirtualFileTarget>
+        <Filename>Battle.net-Firefel-Eitrigg.config</Filename>
+        <VirtualFileString>Battle.net.config</VirtualFileString>
+      </VirtualFileTarget>
+      <VirtualFileTarget>
+        <Filename>Config-Firefel-Eitrigg.WTF</Filename>
+        <VirtualFileString>Config.WTF</VirtualFileString>
+      </VirtualFileTarget>
+      <VirtualFileTarget>
+        <Filename>Software/Blizzard Entertainment/Battle.net-ISBoxer/Firefel-Eitrigg/</Filename>
+        <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
+      </VirtualFileTarget>
+    </VirtualFileTargets>
+    <WoWMacroSets />
+    <CrypticMacroSets />
+    <VirtualMappedKeys>
+      <VirtualMappedKey>
+        <FromMappedKey>
+          <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
+        </FromMappedKey>
+        <ToMappedKey>
+          <KeyMapString>Warlock - Destruction</KeyMapString>
+        </ToMappedKey>
+      </VirtualMappedKey>
+    </VirtualMappedKeys>
+    <VariableKeystrokeInstances />
+  </Character>
+  <Character>
+    <ExecuteOnLoad />
+    <Name>Shadowfel-Eitrigg-Character6SubAccount</Name>
+    <AccountName />
+    <SubAccountName>Character6SubAccount</SubAccountName>
+    <ServerName>Eitrigg</ServerName>
+    <ActualName>Shadowfel</ActualName>
+    <Game>World of Warcraft</Game>
+    <GameProfile>World of Warcraft Client (DirectX 11 Legacy)</GameProfile>
+    <KnownGame>WoW</KnownGame>
+    <RelayGroupStrings>
+      <string>Follower</string>
+      <string>Combat</string>
+      <string>Ranged</string>
+    </RelayGroupStrings>
+    <KeyMapStrings>
+      <string>Warlock - Affliction</string>
+      <string>Warlock - Demonology</string>
+      <string>Warlock - Destruction</string>
+    </KeyMapStrings>
+    <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
+    <KeyMapWhiteOrBlackList />
+    <ClickBarStrings />
+    <MenuInstances />
+    <VirtualFileTargets>
+      <VirtualFileTarget>
+        <Filename>Battle.net-Shadowfel-Eitrigg.config</Filename>
+        <VirtualFileString>Battle.net.config</VirtualFileString>
+      </VirtualFileTarget>
+      <VirtualFileTarget>
+        <Filename>Config-Shadowfel-Eitrigg.WTF</Filename>
+        <VirtualFileString>Config.WTF</VirtualFileString>
+      </VirtualFileTarget>
+      <VirtualFileTarget>
+        <Filename>Software/Blizzard Entertainment/Battle.net-ISBoxer/Shadowfel-Eitrigg/</Filename>
+        <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
+      </VirtualFileTarget>
+    </VirtualFileTargets>
+    <WoWMacroSets />
+    <CrypticMacroSets />
+    <VirtualMappedKeys>
+      <VirtualMappedKey>
+        <FromMappedKey>
+          <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
+        </FromMappedKey>
+        <ToMappedKey>
+          <KeyMapString>Warlock - Affliction</KeyMapString>
+        </ToMappedKey>
+      </VirtualMappedKey>
+    </VirtualMappedKeys>
+    <VariableKeystrokeInstances />
+  </Character>
+  <Character>
+    <ExecuteOnLoad />
+    <Name>Hiwarr-Eitrigg-Character6SubAccount</Name>
+    <AccountName />
+    <SubAccountName>Character6SubAccount</SubAccountName>
+    <ServerName>Eitrigg</ServerName>
+    <ActualName>Hiwarr</ActualName>
+    <Game>World of Warcraft</Game>
+    <GameProfile>World of Warcraft Client (DirectX 11 Legacy)</GameProfile>
+    <KnownGame>WoW</KnownGame>
+    <RelayGroupStrings>
+      <string>Follower</string>
+      <string>Combat</string>
+      <string>Melee</string>
+      <string>Interrupt</string>
+      <string>Stun</string>
+    </RelayGroupStrings>
+    <KeyMapStrings>
+      <string>Warrior - Arms</string>
+      <string>Warrior - Fury</string>
+      <string>Warrior - Protection</string>
+    </KeyMapStrings>
+    <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
+    <KeyMapWhiteOrBlackList />
+    <ClickBarStrings />
+    <MenuInstances />
+    <VirtualFileTargets>
+      <VirtualFileTarget>
+        <Filename>Battle.net-Hiwarr-Eitrigg.config</Filename>
+        <VirtualFileString>Battle.net.config</VirtualFileString>
+      </VirtualFileTarget>
+      <VirtualFileTarget>
+        <Filename>Config-Hiwarr-Eitrigg.WTF</Filename>
+        <VirtualFileString>Config.WTF</VirtualFileString>
+      </VirtualFileTarget>
+      <VirtualFileTarget>
+        <Filename>Software/Blizzard Entertainment/Battle.net-ISBoxer/Hiwarr-Eitrigg/</Filename>
+        <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
+      </VirtualFileTarget>
+    </VirtualFileTargets>
+    <WoWMacroSets />
+    <CrypticMacroSets />
+    <VirtualMappedKeys>
+      <VirtualMappedKey>
+        <FromMappedKey>
+          <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
+        </FromMappedKey>
+        <ToMappedKey>
+          <KeyMapString>Warrior - Protection</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
