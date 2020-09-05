@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="9/4/2020 3:30:36 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="9/5/2020 3:56:50 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -9820,6 +9820,7 @@
       <string>Hunter - Beast Mastery</string>
       <string>Hunter - Marksmanship</string>
       <string>Hunter - Survival</string>
+      <string>ISB42 - Beast Mastery Hunter Keys</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -9877,6 +9878,7 @@
       <string>Hunter - Beast Mastery</string>
       <string>Hunter - Marksmanship</string>
       <string>Hunter - Survival</string>
+      <string>ISB42 - Beast Mastery Hunter Keys</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -9934,6 +9936,7 @@
       <string>Hunter - Beast Mastery</string>
       <string>Hunter - Marksmanship</string>
       <string>Hunter - Survival</string>
+      <string>ISB42 - Beast Mastery Hunter Keys</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -13351,6 +13354,90 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
     </Mappings>
   </KeyMap>
   <KeyMap>
+    <Name>ISB42 - Beast Mastery Hunter Keys</Name>
+    <Mappings>
+      <MappedKey>
+        <Name>SpirtMend/Misdirection</Name>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+\</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>\</Key>
+            <Code>43</Code>
+          </Key>
+        </Combo>
+        <ResetTimer>30</ResetTimer>
+        <ResetType>FromFirstPress</ResetType>
+        <Mode>OnPressAndRelease</Mode>
+        <Steps>
+          <Step>
+            <Stick>10</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>3</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Beast Mastery Hunter(Talents:2222312)</WoWMacroSetString>
+                  <WoWMacroString>Misdirection</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>4</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Beast Mastery Hunter(Talents:2222312)</WoWMacroSetString>
+                  <WoWMacroString>Spirit Mend</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Stick>10</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>4</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Beast Mastery Hunter(Talents:2222312)</WoWMacroSetString>
+                  <WoWMacroString>Misdirection</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>5</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Beast Mastery Hunter(Talents:2222312)</WoWMacroSetString>
+                  <WoWMacroString>Spirit Mend</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Stick>10</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>5</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Beast Mastery Hunter(Talents:2222312)</WoWMacroSetString>
+                  <WoWMacroString>Misdirection</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>3</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Beast Mastery Hunter(Talents:2222312)</WoWMacroSetString>
+                  <WoWMacroString>Spirit Mend</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+    </Mappings>
+  </KeyMap>
+  <KeyMap>
     <Name>ISB42 - Class Specs</Name>
     <Mappings>
       <MappedKey>
@@ -15767,12 +15854,22 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
               <MappedKeyAction xsi:type="KeyMapAction">
                 <Target>all</Target>
                 <Value>Off</Value>
+                <KeyMapString>ISB42 - Beast Mastery Hunter Keys</KeyMapString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Target>all</Target>
+                <Value>Off</Value>
                 <KeyMapString>ISB42 - Combat Hotkeys</KeyMapString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="KeyMapAction">
                 <Target>all</Target>
                 <Value>Off</Value>
                 <KeyMapString>ISB42 - Focus Healing</KeyMapString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Target>all</Target>
+                <Value>Off</Value>
+                <KeyMapString>ISB42 - Healer DPS Swap</KeyMapString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="KeyMapAction">
                 <Target>all</Target>
@@ -15866,11 +15963,19 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="KeyMapAction">
                 <Target>all</Target>
+                <KeyMapString>ISB42 - Beast Mastery Hunter Keys</KeyMapString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Target>all</Target>
                 <KeyMapString>ISB42 - Combat Hotkeys</KeyMapString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="KeyMapAction">
                 <Target>all</Target>
                 <KeyMapString>ISB42 - Focus Healing</KeyMapString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Target>all</Target>
+                <KeyMapString>ISB42 - Healer DPS Swap</KeyMapString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="KeyMapAction">
                 <Target>all</Target>
@@ -20223,6 +20328,10 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                   <WoWMacroString>Barbed Shot</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <KeyMapString>ISB42 - Beast Mastery Hunter Keys</KeyMapString>
+                <MappedKeyString>SpirtMend/Misdirection</MappedKeyString>
+              </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
@@ -20348,6 +20457,9 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </MappedKey>
       <MappedKey>
         <Name>Key4</Name>
+        <ResetTimer>30</ResetTimer>
+        <ResetType>FromFirstPress</ResetType>
+        <Mode>OnPressAndRelease</Mode>
         <Steps>
           <Step>
             <Actions>
@@ -20453,24 +20565,6 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                   <WoWMacroSetString>Beast Mastery Hunter(Talents:2222312)</WoWMacroSetString>
                   <WoWMacroString>Cobra Shot</WoWMacroString>
                 </WoWMacro>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
-      </MappedKey>
-      <MappedKey>
-        <Name>U</Name>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>U</Combo>
-                  <Key>
-                    <Key>U</Key>
-                    <Code>22</Code>
-                  </Key>
-                </Combo>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -26961,6 +27055,32 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>8</Key>
             <Code>9</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [@{SLOT1}] Misdirection</MacroCommands>
+        <ColloquialName>Misdirection</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+9</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>9</Key>
+            <Code>10</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [@{SLOT1}] Spirit Mend</MacroCommands>
+        <ColloquialName>Spirit Mend</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+0</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>0</Key>
+            <Code>11</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
