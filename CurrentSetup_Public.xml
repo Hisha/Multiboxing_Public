@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="9/5/2020 3:56:50 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="9/7/2020 10:59:16 AM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -26969,7 +26969,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast Kill Command</MacroCommands>
+        <MacroCommands>/cast [pet] Kill Command; Call Pet 1</MacroCommands>
         <ColloquialName>Kill Command</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+2</Combo>
@@ -27021,7 +27021,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/castsequence Kill Command, Barbed Shot</MacroCommands>
+        <MacroCommands>/castsequence [pet] Kill Command, Barbed Shot</MacroCommands>
         <ColloquialName>Kill Command/Barbed Shot</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+6</Combo>
@@ -27034,7 +27034,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/castsequence Kill Command, Cobra Shot</MacroCommands>
+        <MacroCommands>/castsequence [pet] Kill Command, Cobra Shot</MacroCommands>
         <ColloquialName>Kill Command/Cobra Shot</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+7</Combo>
@@ -27060,7 +27060,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [@{SLOT1}] Misdirection</MacroCommands>
+        <MacroCommands>/cast [@{SLOT1},help,nodead,pet] [pet,help,nodead] Misdirection; Call Pet 1</MacroCommands>
         <ColloquialName>Misdirection</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+9</Combo>
@@ -27073,7 +27073,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [@{SLOT1}] Spirit Mend</MacroCommands>
+        <MacroCommands>/cast [@{SLOT1},help,nodead,pet] [@player,pet] Spirit Mend; Call Pet 1</MacroCommands>
         <ColloquialName>Spirit Mend</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+0</Combo>
