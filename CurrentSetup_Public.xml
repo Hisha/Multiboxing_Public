@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/1/2020 9:25:35 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/2/2020 6:18:00 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -15391,7 +15391,7 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
                 <Target>all</Target>
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Mounts</WoWMacroSetString>
+                  <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
                   <WoWMacroString>Ground Mount</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -15543,7 +15543,7 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Mounts</WoWMacroSetString>
+                  <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
                   <WoWMacroString>Hivemind Mount</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -19372,12 +19372,36 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
         <Name>Click to Move Off</Name>
         <Description>This turns Click to Move off. It is used by the Interact with Target key in the Non-combat Key Map.</Description>
         <ResetTimer>0</ResetTimer>
-        <Steps />
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
+                  <WoWMacroString>Click-to-Move OFF</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
       </MappedKey>
       <MappedKey>
         <Name>Click to Move On</Name>
         <Description>This turns Click to Move on. It is used by the Interact with Target key in the Non-combat Key Map.</Description>
-        <Steps />
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
+                  <WoWMacroString>Click-to-Move ON</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
       </MappedKey>
       <MappedKey>
         <Name>JambaMaster</Name>
@@ -30023,10 +30047,11 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Name>CTMOn</Name>
         <ColloquialName>Click-to-Move ON</ColloquialName>
         <Combo>
-          <Combo>NONE</Combo>
+          <Combo>Ctrl+Shift+Alt+P</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
           <Key>
-            <Key>NONE</Key>
-            <Code>0</Code>
+            <Key>P</Key>
+            <Code>25</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
@@ -30037,10 +30062,11 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Name>CTMOff</Name>
         <ColloquialName>Click-to-Move OFF</ColloquialName>
         <Combo>
-          <Combo>NONE</Combo>
+          <Combo>Ctrl+Alt+P</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
           <Key>
-            <Key>NONE</Key>
-            <Code>0</Code>
+            <Key>P</Key>
+            <Code>25</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
