@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="9/29/2020 12:13:58 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/1/2020 9:25:35 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -511,9 +511,6 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -1031,9 +1028,6 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -1557,9 +1551,6 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
       </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <LaunchCharacterSetStrings />
@@ -2082,9 +2073,6 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
       </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <LaunchCharacterSetStrings />
@@ -2602,9 +2590,6 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -3124,9 +3109,6 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -3653,9 +3635,6 @@
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Focus Healing</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -4198,9 +4177,6 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
       </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <LaunchCharacterSetStrings />
@@ -4722,9 +4698,6 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -5262,9 +5235,6 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
       </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <LaunchCharacterSetStrings />
@@ -5786,9 +5756,6 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -6312,9 +6279,6 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
       </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <LaunchCharacterSetStrings />
@@ -6831,9 +6795,6 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -7356,9 +7317,6 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -7886,9 +7844,6 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Focus Healing</WoWMacroSetString>
       </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <LaunchCharacterSetStrings />
@@ -7940,7 +7895,7 @@
       <Slot>
         <ForegroundMaxFPS>60</ForegroundMaxFPS>
         <BackgroundMaxFPS>30</BackgroundMaxFPS>
-        <CharacterString>Toraxe-Eitrigg</CharacterString>
+        <CharacterString>Character6SubAccount-Eitrigg</CharacterString>
         <SwitchToCombo>
           <Combo>Ctrl+Alt+1</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -8016,7 +7971,7 @@
       <Slot>
         <ForegroundMaxFPS>60</ForegroundMaxFPS>
         <BackgroundMaxFPS>30</BackgroundMaxFPS>
-        <CharacterString>Femshocki-Eitrigg</CharacterString>
+        <CharacterString>Firefel-Eitrigg-Character2SubAccount</CharacterString>
         <SwitchToCombo>
           <Combo>Ctrl+Alt+2</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -8092,7 +8047,7 @@
       <Slot>
         <ForegroundMaxFPS>60</ForegroundMaxFPS>
         <BackgroundMaxFPS>30</BackgroundMaxFPS>
-        <CharacterString>Femshocka-Eitrigg</CharacterString>
+        <CharacterString>Blindchaos-Eitrigg</CharacterString>
         <SwitchToCombo>
           <Combo>Ctrl+Alt+3</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -8168,7 +8123,7 @@
       <Slot>
         <ForegroundMaxFPS>60</ForegroundMaxFPS>
         <BackgroundMaxFPS>30</BackgroundMaxFPS>
-        <CharacterString>Femshocke-Eitrigg</CharacterString>
+        <CharacterString>Chaosglaive-Eitrigg</CharacterString>
         <SwitchToCombo>
           <Combo>Ctrl+Alt+4</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -8244,7 +8199,7 @@
       <Slot>
         <ForegroundMaxFPS>60</ForegroundMaxFPS>
         <BackgroundMaxFPS>30</BackgroundMaxFPS>
-        <CharacterString>Hiball-Eitrigg</CharacterString>
+        <CharacterString>Glaivestrike-Eitrigg</CharacterString>
         <SwitchToCombo>
           <Combo>Ctrl+Alt+5</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -8952,9 +8907,6 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
       </WoWMacroSetLooseRef>
-      <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Mounts</WoWMacroSetString>
-      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <LaunchCharacterSetStrings />
@@ -9000,6 +8952,7 @@
       <string>Melee</string>
       <string>Stun</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -9067,6 +9020,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -9134,6 +9088,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -9201,6 +9156,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -9268,6 +9224,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -9356,6 +9313,7 @@
       <string>Follower</string>
       <string>Combat</string>
       <string>Ranged</string>
+      <string>Priest</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Priest - Discipline</string>
@@ -9386,6 +9344,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Holy Priest(Talents:1112321)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Priest Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -9415,6 +9376,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Death Knight</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Death Knight - Blood</string>
@@ -9446,6 +9408,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Blood Death Knight(Talents:2222222)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Death Knight Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -9475,6 +9440,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Death Knight</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Death Knight - Blood</string>
@@ -9506,6 +9472,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Blood Death Knight(Talents:2222222)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Death Knight Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -9535,6 +9504,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Death Knight</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Death Knight - Blood</string>
@@ -9566,6 +9536,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Blood Death Knight(Talents:2222222)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Death Knight Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -9595,6 +9568,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Death Knight</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Death Knight - Blood</string>
@@ -9625,6 +9599,9 @@
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Blood Death Knight(Talents:2222222)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Death Knight Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -9678,6 +9655,7 @@
       <string>Melee</string>
       <string>Interrupt</string>
       <string>Stun</string>
+      <string>Paladin</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
@@ -9705,6 +9683,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -9734,6 +9715,7 @@
       <string>Follower</string>
       <string>Combat</string>
       <string>Ranged</string>
+      <string>Priest</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Priest - Discipline</string>
@@ -9765,6 +9747,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Priest Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -9793,6 +9778,7 @@
       <string>Follower</string>
       <string>Combat</string>
       <string>Ranged</string>
+      <string>Priest</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Priest - Discipline</string>
@@ -9824,6 +9810,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Priest Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -9852,6 +9841,7 @@
       <string>Follower</string>
       <string>Combat</string>
       <string>Ranged</string>
+      <string>Priest</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Priest - Discipline</string>
@@ -9883,6 +9873,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Priest Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -9911,6 +9904,7 @@
       <string>Follower</string>
       <string>Combat</string>
       <string>Ranged</string>
+      <string>Priest</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Priest - Discipline</string>
@@ -9941,6 +9935,9 @@
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Priest Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -9993,6 +9990,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Shaman</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Shaman - Elemental</string>
@@ -10023,6 +10021,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -10052,6 +10053,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -10082,6 +10084,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -10111,6 +10116,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -10141,6 +10147,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -10170,6 +10179,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -10200,6 +10210,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -10229,6 +10242,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -10258,6 +10272,9 @@
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -10311,6 +10328,7 @@
       <string>Melee</string>
       <string>Interrupt</string>
       <string>Stun</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Feral</string>
@@ -10378,6 +10396,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -10445,6 +10464,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -10512,6 +10532,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -10579,6 +10600,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -10669,6 +10691,7 @@
       <string>Melee</string>
       <string>Interrupt</string>
       <string>Stun</string>
+      <string>Paladin</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
@@ -10733,6 +10756,7 @@
       <string>Melee</string>
       <string>Interrupt</string>
       <string>Stun</string>
+      <string>Paladin</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
@@ -10797,6 +10821,7 @@
       <string>Melee</string>
       <string>Interrupt</string>
       <string>Stun</string>
+      <string>Paladin</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
@@ -10858,6 +10883,7 @@
       <string>Melee</string>
       <string>Interrupt</string>
       <string>Stun</string>
+      <string>Paladin</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
@@ -10919,6 +10945,7 @@
       <string>Melee</string>
       <string>Interrupt</string>
       <string>Stun</string>
+      <string>Paladin</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
@@ -11002,6 +11029,7 @@
       <string>Melee</string>
       <string>Interrupt</string>
       <string>Stun</string>
+      <string>Warrior</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Warrior - Arms</string>
@@ -11029,6 +11057,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Warrior Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11059,6 +11090,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Shaman</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Shaman - Elemental</string>
@@ -11090,6 +11122,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -11119,6 +11154,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Shaman</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Shaman - Elemental</string>
@@ -11150,6 +11186,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -11179,6 +11218,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Shaman</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Shaman - Elemental</string>
@@ -11210,6 +11250,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -11239,6 +11282,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Shaman</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Shaman - Elemental</string>
@@ -11269,6 +11313,9 @@
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11321,6 +11368,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Monk</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Monk - Brewmaster</string>
@@ -11348,6 +11396,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Brewmaster Monk(Talents:1111221)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Monk Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11377,6 +11428,7 @@
       <string>Follower</string>
       <string>Combat</string>
       <string>Ranged</string>
+      <string>Priest</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Priest - Discipline</string>
@@ -11407,6 +11459,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Holy Priest(Talents:1112321)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Priest Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -11436,6 +11491,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Hunter - Beast Mastery</string>
@@ -11464,6 +11520,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Beast Mastery Hunter(Talents:2222312)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Hunter Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11494,6 +11553,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Hunter - Beast Mastery</string>
@@ -11522,6 +11582,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Beast Mastery Hunter(Talents:2222312)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Hunter Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11552,6 +11615,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Hunter - Beast Mastery</string>
@@ -11580,6 +11644,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Beast Mastery Hunter(Talents:2222312)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Hunter Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11633,6 +11700,7 @@
       <string>Melee</string>
       <string>Interrupt</string>
       <string>Stun</string>
+      <string>Paladin</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
@@ -11660,6 +11728,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11690,6 +11761,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Shaman</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Shaman - Elemental</string>
@@ -11720,6 +11792,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -11748,6 +11823,7 @@
       <string>Follower</string>
       <string>Combat</string>
       <string>Ranged</string>
+      <string>Warlock</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Warlock - Affliction</string>
@@ -11775,6 +11851,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11804,6 +11883,7 @@
       <string>Follower</string>
       <string>Combat</string>
       <string>Ranged</string>
+      <string>Warlock</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Warlock - Affliction</string>
@@ -11831,6 +11911,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11860,6 +11943,7 @@
       <string>Follower</string>
       <string>Combat</string>
       <string>Ranged</string>
+      <string>Warlock</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Warlock - Affliction</string>
@@ -11887,6 +11971,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11939,6 +12026,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Paladin</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
@@ -11966,6 +12054,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11996,6 +12087,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Warrior</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Warrior - Arms</string>
@@ -12023,6 +12115,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Fury Warrior(Talents:2123123)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Warrior Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -12053,6 +12148,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Warrior</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Warrior - Arms</string>
@@ -12080,6 +12176,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Fury Warrior(Talents:2123123)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Warrior Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -12110,6 +12209,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Warrior</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Warrior - Arms</string>
@@ -12137,6 +12237,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Fury Warrior(Talents:2123123)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Warrior Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -12167,6 +12270,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Warrior</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Warrior - Arms</string>
@@ -12194,6 +12298,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Fury Warrior(Talents:2123123)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Warrior Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -12554,6 +12661,7 @@
       <string>Melee</string>
       <string>Interrupt</string>
       <string>Stun</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -12618,6 +12726,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -12682,6 +12791,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -12746,6 +12856,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -12810,6 +12921,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Druid</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Druid - Balance</string>
@@ -12895,6 +13007,7 @@
       <string>Follower</string>
       <string>Combat</string>
       <string>Ranged</string>
+      <string>Priest</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>ISB42 - Healer DPS Swap</string>
@@ -12925,6 +13038,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Holy Priest(Talents:1112321)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Priest Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -12954,6 +13070,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -12984,6 +13101,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Havoc Demon Hunter(Talents:2311211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13013,6 +13133,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -13043,6 +13164,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Havoc Demon Hunter(Talents:2311211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13072,6 +13196,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -13102,6 +13227,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Havoc Demon Hunter(Talents:2311211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13131,6 +13259,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -13160,6 +13289,9 @@
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Havoc Demon Hunter(Talents:2311211)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -13212,6 +13344,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -13242,6 +13375,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13271,6 +13407,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Shaman</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Shaman - Elemental</string>
@@ -13306,6 +13443,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13335,6 +13475,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Shaman</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Shaman - Elemental</string>
@@ -13370,6 +13511,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13399,6 +13543,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Shaman</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Shaman - Elemental</string>
@@ -13434,6 +13579,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13463,6 +13611,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Shaman</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Shaman - Elemental</string>
@@ -13497,6 +13646,9 @@
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -13550,6 +13702,7 @@
       <string>Melee</string>
       <string>Interrupt</string>
       <string>Stun</string>
+      <string>Paladin</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
@@ -13584,6 +13737,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13613,6 +13769,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Death Knight</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Death Knight - Blood</string>
@@ -13644,6 +13801,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Unholy Death Knight(Talents:1233312)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Death Knight Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13673,6 +13833,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Death Knight</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Death Knight - Blood</string>
@@ -13704,6 +13865,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Unholy Death Knight(Talents:1233312)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Death Knight Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13733,6 +13897,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Death Knight</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Death Knight - Blood</string>
@@ -13764,6 +13929,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Unholy Death Knight(Talents:1233312)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Death Knight Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13793,6 +13961,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Death Knight</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Death Knight - Blood</string>
@@ -13823,6 +13992,9 @@
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Unholy Death Knight(Talents:1233312)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Death Knight Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -13875,6 +14047,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Shaman</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>ISB42 - Healer DPS Swap</string>
@@ -13911,6 +14084,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13940,6 +14116,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -13970,6 +14147,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -13999,6 +14179,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -14029,6 +14210,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -14058,6 +14242,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -14088,6 +14273,9 @@
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
@@ -14117,6 +14305,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Demon Hunter</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Demon Hunter - Havoc</string>
@@ -14146,6 +14335,9 @@
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -14250,6 +14442,7 @@
       <string>Follower</string>
       <string>Combat</string>
       <string>Ranged</string>
+      <string>Warlock</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Warlock - Affliction</string>
@@ -14274,7 +14467,14 @@
         <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
       </VirtualFileTarget>
     </VirtualFileTargets>
-    <WoWMacroSets />
+    <WoWMacroSets>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+    </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
       <VirtualMappedKey>
@@ -14302,6 +14502,7 @@
       <string>Follower</string>
       <string>Combat</string>
       <string>Ranged</string>
+      <string>Warlock</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Warlock - Affliction</string>
@@ -14326,7 +14527,11 @@
         <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
       </VirtualFileTarget>
     </VirtualFileTargets>
-    <WoWMacroSets />
+    <WoWMacroSets>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+    </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
       <VirtualMappedKey>
@@ -14465,6 +14670,36 @@
   </RelayGroup>
   <RelayGroup>
     <Name>Stun</Name>
+  </RelayGroup>
+  <RelayGroup>
+    <Name>Demon Hunter</Name>
+  </RelayGroup>
+  <RelayGroup>
+    <Name>Death Knight</Name>
+  </RelayGroup>
+  <RelayGroup>
+    <Name>Druid</Name>
+  </RelayGroup>
+  <RelayGroup>
+    <Name>Hunter</Name>
+  </RelayGroup>
+  <RelayGroup>
+    <Name>Monk</Name>
+  </RelayGroup>
+  <RelayGroup>
+    <Name>Paladin</Name>
+  </RelayGroup>
+  <RelayGroup>
+    <Name>Priest</Name>
+  </RelayGroup>
+  <RelayGroup>
+    <Name>Shaman</Name>
+  </RelayGroup>
+  <RelayGroup>
+    <Name>Warlock</Name>
+  </RelayGroup>
+  <RelayGroup>
+    <Name>Warrior</Name>
   </RelayGroup>
   <KeyMap>
     <Name>ISB42 - Always On</Name>
@@ -15152,15 +15387,13 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <Target>all</Target>
-                <Combo>
-                  <Combo>8</Combo>
-                  <Key>
-                    <Key>8</Key>
-                    <Code>9</Code>
-                  </Key>
-                </Combo>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Mounts</WoWMacroSetString>
+                  <WoWMacroString>Ground Mount</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -15178,15 +15411,85 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Target>all</Target>
-                <Combo>
-                  <Combo>9</Combo>
-                  <Key>
-                    <Key>9</Key>
-                    <Code>10</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Demon Hunter</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Demon Hunter Macros</WoWMacroSetString>
+                  <WoWMacroString>Flying Mount</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Death Knight</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Death Knight Macros</WoWMacroSetString>
+                  <WoWMacroString>Flying Mount</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Druid</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Druid Macros</WoWMacroSetString>
+                  <WoWMacroString>Druid Flight Form</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Hunter</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Hunter Macros</WoWMacroSetString>
+                  <WoWMacroString>Flying Mount</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Monk</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Monk Macros</WoWMacroSetString>
+                  <WoWMacroString>Flying Mount</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Paladin</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
+                  <WoWMacroString>Flying Mount</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Priest</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Priest Macros</WoWMacroSetString>
+                  <WoWMacroString>Flying Mount</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Shaman</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
+                  <WoWMacroString>Flying Mount</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Warlock</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
+                  <WoWMacroString>Flying Mount</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Warrior</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Warrior Macros</WoWMacroSetString>
+                  <WoWMacroString>Flying Mount</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -15204,15 +15507,13 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <Target>all</Target>
-                <Combo>
-                  <Combo>0</Combo>
-                  <Key>
-                    <Key>0</Key>
-                    <Code>11</Code>
-                  </Key>
-                </Combo>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
+                  <WoWMacroString>Hearthstone</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -19071,36 +19372,12 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
         <Name>Click to Move Off</Name>
         <Description>This turns Click to Move off. It is used by the Interact with Target key in the Non-combat Key Map.</Description>
         <ResetTimer>0</ResetTimer>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
-                  <WoWMacroString>Click-to-Move OFF</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
+        <Steps />
       </MappedKey>
       <MappedKey>
         <Name>Click to Move On</Name>
         <Description>This turns Click to Move on. It is used by the Interact with Target key in the Non-combat Key Map.</Description>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Quick Setup 42</WoWMacroSetString>
-                  <WoWMacroString>Click-to-Move ON</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
+        <Steps />
       </MappedKey>
       <MappedKey>
         <Name>JambaMaster</Name>
@@ -19464,7 +19741,91 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
   </KeyMap>
   <KeyMap>
     <Name>Carry Crew Keys</Name>
-    <Mappings />
+    <Mappings>
+      <MappedKey>
+        <Name>ShamanDPS Toggle</Name>
+        <Combo>
+          <Combo>F7</Combo>
+          <Key>
+            <Key>F7</Key>
+            <Code>65</Code>
+          </Key>
+        </Combo>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Character6SubAccount-Eitrigg</Target>
+                <KeyMapString>ISB42 - Healer DPS Swap</KeyMapString>
+                <MappedKeyString>Restoration Shaman DPS Enable</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="PopupTextAction">
+                <Text>Healer DPS Active!!!!</Text>
+                <DurationMS>1000</DurationMS>
+                <Red>0</Red>
+                <Blue>0</Blue>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Character6SubAccount-Eitrigg</Target>
+                <KeyMapString>ISB42 - Healer DPS Swap</KeyMapString>
+                <MappedKeyString>Restoration Shaman DPS Disable</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="PopupTextAction">
+                <Text>Healer DPS Disabled!!!!</Text>
+                <DurationMS>1000</DurationMS>
+                <Green>0</Green>
+                <Blue>0</Blue>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>StandardDungeonSpecs</Name>
+        <Combo>
+          <Combo>F12</Combo>
+          <Key>
+            <Key>F12</Key>
+            <Code>88</Code>
+          </Key>
+        </Combo>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Character6SubAccount-Eitrigg</Target>
+                <KeyMapString>ISB42 - Class Specs</KeyMapString>
+                <MappedKeyString>Shaman - Restoration Spec</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Firefel-Eitrigg-Character2SubAccount</Target>
+                <KeyMapString>ISB42 - Class Specs</KeyMapString>
+                <MappedKeyString>Warlock - Destruction Spec</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Blindchaos-Eitrigg</Target>
+                <KeyMapString>ISB42 - Class Specs</KeyMapString>
+                <MappedKeyString>Demon Hunter - Havoc Spec</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Chaosglaive-Eitrigg</Target>
+                <KeyMapString>ISB42 - Class Specs</KeyMapString>
+                <MappedKeyString>Demon Hunter - Havoc Spec</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Glaivestrike-Eitrigg</Target>
+                <KeyMapString>ISB42 - Class Specs</KeyMapString>
+                <MappedKeyString>Demon Hunter - Havoc Spec</MappedKeyString>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+    </Mappings>
   </KeyMap>
   <KeyMap>
     <Name>DruidCrew Keys</Name>
@@ -29662,11 +30023,10 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Name>CTMOn</Name>
         <ColloquialName>Click-to-Move ON</ColloquialName>
         <Combo>
-          <Combo>Shift+Alt+N</Combo>
-          <Modifiers>Shift Alt</Modifiers>
+          <Combo>NONE</Combo>
           <Key>
-            <Key>N</Key>
-            <Code>49</Code>
+            <Key>NONE</Key>
+            <Code>0</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
@@ -29677,11 +30037,10 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Name>CTMOff</Name>
         <ColloquialName>Click-to-Move OFF</ColloquialName>
         <Combo>
-          <Combo>Ctrl+Alt+N</Combo>
-          <Modifiers>Ctrl Alt</Modifiers>
+          <Combo>NONE</Combo>
           <Key>
-            <Key>N</Key>
-            <Code>49</Code>
+            <Key>NONE</Key>
+            <Code>0</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
@@ -29804,17 +30163,74 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         </Combo>
         <AllowCustomModifiers />
       </WoWMacro>
-    </WoWMacros>
-  </WoWMacroSet>
-  <WoWMacroSet>
-    <Name>Mounts</Name>
-    <WoWMacros>
+      <WoWMacro>
+        <MacroCommands>/use Hearthstone</MacroCommands>
+        <ColloquialName>Hearthstone</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+N</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>N</Key>
+            <Code>49</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
       <WoWMacro>
         <MacroCommands>/cast The Hivemind</MacroCommands>
         <ColloquialName>Hivemind Mount</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+L</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/use Black War Bear</MacroCommands>
+        <ColloquialName>Ground Mount</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+L</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+    </WoWMacros>
+  </WoWMacroSet>
+  <WoWMacroSet>
+    <Name>Demon Hunter Macros</Name>
+    <WoWMacros>
+      <WoWMacro>
+        <MacroCommands>/use Slayer's Felbroken Shrieker</MacroCommands>
+        <ColloquialName>Flying Mount</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+L</Combo>
+          <Modifiers>Ctrl Shift</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+    </WoWMacros>
+  </WoWMacroSet>
+  <WoWMacroSet>
+    <Name>Death Knight Macros</Name>
+    <WoWMacros>
+      <WoWMacro>
+        <MacroCommands>/use Deathlord's Vilebrood Vanquisher</MacroCommands>
+        <ColloquialName>Flying Mount</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+L</Combo>
+          <Modifiers>Ctrl Shift</Modifiers>
           <Key>
             <Key>L</Key>
             <Code>38</Code>
@@ -29864,6 +30280,55 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         </Combo>
         <AllowCustomModifiers />
       </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Travel Form</MacroCommands>
+        <ColloquialName>Druid Flight Form</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+L</Combo>
+          <Modifiers>Ctrl Shift</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+    </WoWMacros>
+  </WoWMacroSet>
+  <WoWMacroSet>
+    <Name>Hunter Macros</Name>
+    <WoWMacros>
+      <WoWMacro>
+        <MacroCommands>/use Huntmaster's Dire Wolfhawk</MacroCommands>
+        <ColloquialName>Flying Mount</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+L</Combo>
+          <Modifiers>Ctrl Shift</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+    </WoWMacros>
+  </WoWMacroSet>
+  <WoWMacroSet>
+    <Name>Monk Macros</Name>
+    <WoWMacros>
+      <WoWMacro>
+        <MacroCommands>/use Highlord's Golden Charger</MacroCommands>
+        <ColloquialName>Flying Mount</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+L</Combo>
+          <Modifiers>Ctrl Shift</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
@@ -29891,6 +30356,91 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>'</Key>
             <Code>40</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/use Highlord's Golden Charger</MacroCommands>
+        <ColloquialName>Flying Mount</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+L</Combo>
+          <Modifiers>Ctrl Shift</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+    </WoWMacros>
+  </WoWMacroSet>
+  <WoWMacroSet>
+    <Name>Priest Macros</Name>
+    <WoWMacros>
+      <WoWMacro>
+        <MacroCommands>/use High Priest's Lightsworn Seeker</MacroCommands>
+        <ColloquialName>Flying Mount</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+L</Combo>
+          <Modifiers>Ctrl Shift</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+    </WoWMacros>
+  </WoWMacroSet>
+  <WoWMacroSet>
+    <Name>Shaman Macros</Name>
+    <WoWMacros>
+      <WoWMacro>
+        <MacroCommands>/use Farseer's Raging Tempest</MacroCommands>
+        <ColloquialName>Flying Mount</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+L</Combo>
+          <Modifiers>Ctrl Shift</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+    </WoWMacros>
+  </WoWMacroSet>
+  <WoWMacroSet>
+    <Name>Warlock Macros</Name>
+    <WoWMacros>
+      <WoWMacro>
+        <MacroCommands>/use Netherlord's Chaotic Wrathsteed</MacroCommands>
+        <ColloquialName>Flying Mount</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+L</Combo>
+          <Modifiers>Ctrl Shift</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+    </WoWMacros>
+  </WoWMacroSet>
+  <WoWMacroSet>
+    <Name>Warrior Macros</Name>
+    <WoWMacros>
+      <WoWMacro>
+        <MacroCommands>/use Battlelord's Bloodthirsty War Wyrm</MacroCommands>
+        <ColloquialName>Flying Mount</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+L</Combo>
+          <Modifiers>Ctrl Shift</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
