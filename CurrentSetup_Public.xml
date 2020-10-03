@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/2/2020 10:06:01 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/3/2020 1:41:20 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -12353,6 +12353,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Rogue</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Rogue - Assassination</string>
@@ -12380,6 +12381,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Outlaw Rogue(Talents:2111322)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Rogue Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -12410,6 +12414,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Rogue</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Rogue - Assassination</string>
@@ -12437,6 +12442,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Outlaw Rogue(Talents:2111322)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Rogue Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -12467,6 +12475,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Rogue</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Rogue - Assassination</string>
@@ -12494,6 +12503,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Outlaw Rogue(Talents:2111322)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Rogue Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -12524,6 +12536,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Rogue</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Rogue - Assassination</string>
@@ -12551,6 +12564,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Outlaw Rogue(Talents:2111322)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Rogue Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -12581,6 +12597,7 @@
       <string>Combat</string>
       <string>Melee</string>
       <string>Interrupt</string>
+      <string>Rogue</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Rogue - Assassination</string>
@@ -12608,6 +12625,9 @@
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Outlaw Rogue(Talents:2111322)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Rogue Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -14390,6 +14410,7 @@
       <string>Combat</string>
       <string>Ranged</string>
       <string>Interrupt</string>
+      <string>Mage</string>
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Mage - Arcane</string>
@@ -14414,7 +14435,11 @@
         <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
       </VirtualFileTarget>
     </VirtualFileTargets>
-    <WoWMacroSets />
+    <WoWMacroSets>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Mage Macros</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+    </WoWMacroSets>
     <CrypticMacroSets />
     <VirtualMappedKeys>
       <VirtualMappedKey>
@@ -14684,6 +14709,9 @@
     <Name>Hunter</Name>
   </RelayGroup>
   <RelayGroup>
+    <Name>Mage</Name>
+  </RelayGroup>
+  <RelayGroup>
     <Name>Monk</Name>
   </RelayGroup>
   <RelayGroup>
@@ -14691,6 +14719,9 @@
   </RelayGroup>
   <RelayGroup>
     <Name>Priest</Name>
+  </RelayGroup>
+  <RelayGroup>
+    <Name>Rogue</Name>
   </RelayGroup>
   <RelayGroup>
     <Name>Shaman</Name>
@@ -17901,6 +17932,27 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
         </Steps>
       </MappedKey>
       <MappedKey>
+        <Name>I</Name>
+        <Combo>
+          <Combo>I</Combo>
+          <Key>
+            <Key>I</Key>
+            <Code>23</Code>
+          </Key>
+        </Combo>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>all</Target>
+                <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
+                <MappedKeyString>I</MappedKeyString>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
         <Name>O</Name>
         <Combo>
           <Combo>O</Combo>
@@ -17916,6 +17968,27 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
                 <Target>all</Target>
                 <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
                 <MappedKeyString>O</MappedKeyString>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>P</Name>
+        <Combo>
+          <Combo>P</Combo>
+          <Key>
+            <Key>P</Key>
+            <Code>25</Code>
+          </Key>
+        </Combo>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>all</Target>
+                <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
+                <MappedKeyString>P</MappedKeyString>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -19340,7 +19413,23 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
         </Steps>
       </MappedKey>
       <MappedKey>
+        <Name>I</Name>
+        <Steps>
+          <Step>
+            <Actions />
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
         <Name>O</Name>
+        <Steps>
+          <Step>
+            <Actions />
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>P</Name>
         <Steps>
           <Step>
             <Actions />
@@ -21876,14 +21965,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>T</Combo>
-                  <Key>
-                    <Key>T</Key>
-                    <Code>20</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Blood Death Knight(Talents:2222222)</WoWMacroSetString>
+                  <WoWMacroString>Asphyxiate/Mind Freeze</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -21902,14 +21989,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>R</Combo>
-                  <Key>
-                    <Key>R</Key>
-                    <Code>19</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Blood Death Knight(Talents:2222222)</WoWMacroSetString>
+                  <WoWMacroString>Death Grip/Dark Command</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -22311,14 +22396,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>T</Combo>
-                  <Key>
-                    <Key>T</Key>
-                    <Code>20</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Unholy Death Knight(Talents:1233312)</WoWMacroSetString>
+                  <WoWMacroString>Mind Freeze</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -22337,14 +22420,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>R</Combo>
-                  <Key>
-                    <Key>R</Key>
-                    <Code>19</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Unholy Death Knight(Talents:1233312)</WoWMacroSetString>
+                  <WoWMacroString>Death Grip/Dark Command</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -22813,7 +22894,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Throw Glaive</WoWMacroString>
+                  <WoWMacroString>Throw Glaive(Rotation)</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
@@ -22909,14 +22990,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>T</Combo>
-                  <Key>
-                    <Key>T</Key>
-                    <Code>20</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
+                  <WoWMacroString>Disrupt</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -22935,14 +23014,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>R</Combo>
-                  <Key>
-                    <Key>R</Key>
-                    <Code>19</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
+                  <WoWMacroString>Torment</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -22953,14 +23030,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>1</Combo>
-                  <Key>
-                    <Key>1</Key>
-                    <Code>2</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Vengenance Demon Hunter(Talents:1213111)</WoWMacroSetString>
+                  <WoWMacroString>Throw Glaive</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -25576,14 +25651,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>Y</Combo>
-                  <Key>
-                    <Key>Y</Key>
-                    <Code>21</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+                  <WoWMacroString>Hammer of Justice</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -25731,6 +25804,22 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           </Step>
         </Steps>
       </MappedKey>
+      <MappedKey>
+        <Name>I</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+                  <WoWMacroString>Cleanse</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
     </Mappings>
   </KeyMap>
   <KeyMap>
@@ -25808,14 +25897,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>Y</Combo>
-                  <Key>
-                    <Key>Y</Key>
-                    <Code>21</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroString>Hammer of Justice</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -25826,14 +25913,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>R</Combo>
-                  <Key>
-                    <Key>R</Key>
-                    <Code>19</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroString>Hand of Reckoning</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -25857,21 +25942,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </MappedKey>
       <MappedKey>
         <Name>Spellup</Name>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>7</Combo>
-                  <Key>
-                    <Key>7</Key>
-                    <Code>8</Code>
-                  </Key>
-                </Combo>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
+        <Steps />
       </MappedKey>
       <MappedKey>
         <Name>Key3</Name>
@@ -25990,6 +26061,38 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <WoWMacro>
                   <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
                   <WoWMacroString>Shield of the Righteous/Hand of the Protector</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>I</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroString>Cleanse Toxins</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>P</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroString>Lay on Hands</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -26388,21 +26491,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </MappedKey>
       <MappedKey>
         <Name>Interrupt</Name>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>T</Combo>
-                  <Key>
-                    <Key>T</Key>
-                    <Code>20</Code>
-                  </Key>
-                </Combo>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
+        <Steps />
       </MappedKey>
       <MappedKey>
         <Name>Stun</Name>
@@ -26506,21 +26595,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </MappedKey>
       <MappedKey>
         <Name>Key6</Name>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>6</Combo>
-                  <Key>
-                    <Key>6</Key>
-                    <Code>7</Code>
-                  </Key>
-                </Combo>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
+        <Steps />
       </MappedKey>
       <MappedKey>
         <Name>Shift2</Name>
@@ -27751,14 +27826,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>T</Combo>
-                  <Key>
-                    <Key>T</Key>
-                    <Code>20</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Wind Shear</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -27921,6 +27994,22 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                     <Code>3</Code>
                   </Key>
                 </Combo>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>I</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Cleanse Spirit</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -30367,6 +30456,24 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
+    <Name>Mage Macros</Name>
+    <WoWMacros>
+      <WoWMacro>
+        <MacroCommands>/use Archmage's Prismatic Disc</MacroCommands>
+        <ColloquialName>Flying Mount</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+L</Combo>
+          <Modifiers>Ctrl Shift</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+    </WoWMacros>
+  </WoWMacroSet>
+  <WoWMacroSet>
     <Name>Monk Macros</Name>
     <WoWMacros>
       <WoWMacro>
@@ -30433,6 +30540,24 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
     <WoWMacros>
       <WoWMacro>
         <MacroCommands>/use High Priest's Lightsworn Seeker</MacroCommands>
+        <ColloquialName>Flying Mount</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+L</Combo>
+          <Modifiers>Ctrl Shift</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+    </WoWMacros>
+  </WoWMacroSet>
+  <WoWMacroSet>
+    <Name>Rogue Macros</Name>
+    <WoWMacros>
+      <WoWMacro>
+        <MacroCommands>/use Shadowblade's Murderous Omen</MacroCommands>
         <ColloquialName>Flying Mount</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+L</Combo>
@@ -30907,6 +31032,35 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         </Combo>
         <AllowCustomModifiers />
       </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Asphyxiate
+
+/cast Mind Freeze</MacroCommands>
+        <ColloquialName>Asphyxiate/Mind Freeze</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+9</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>9</Key>
+            <Code>10</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Death Grip
+/cast Dark Command</MacroCommands>
+        <ColloquialName>Death Grip/Dark Command</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+0</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>0</Key>
+            <Code>11</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
@@ -31313,6 +31467,32 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>6</Key>
             <Code>7</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Wind Shear</MacroCommands>
+        <ColloquialName>Wind Shear</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+7</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>7</Key>
+            <Code>8</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Cleanse Spirit</MacroCommands>
+        <ColloquialName>Cleanse Spirit</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+8</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>8</Key>
+            <Code>9</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
@@ -31984,6 +32164,32 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         </Combo>
         <AllowCustomModifiers />
       </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Hammer of Justice</MacroCommands>
+        <ColloquialName>Hammer of Justice</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+7</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>7</Key>
+            <Code>8</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Cleanse</MacroCommands>
+        <ColloquialName>Cleanse</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+8</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>8</Key>
+            <Code>9</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
@@ -32233,6 +32439,58 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         </Combo>
         <AllowCustomModifiers />
       </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Hand of Reckoning</MacroCommands>
+        <ColloquialName>Hand of Reckoning</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+8</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>8</Key>
+            <Code>9</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Hammer of Justice</MacroCommands>
+        <ColloquialName>Hammer of Justice</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+9</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>9</Key>
+            <Code>10</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Cleanse Toxins</MacroCommands>
+        <ColloquialName>Cleanse Toxins</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+0</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>0</Key>
+            <Code>11</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Lay on Hands</MacroCommands>
+        <ColloquialName>Lay on Hands</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+-</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>-</Key>
+            <Code>12</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
@@ -32390,11 +32648,11 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <MacroCommands>/cast [nochanneling] Flame Shock</MacroCommands>
         <ColloquialName>Flame Shock</ColloquialName>
         <Combo>
-          <Combo>Ctrl+Shift+Alt+7</Combo>
-          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Combo>Shift+Alt+1</Combo>
+          <Modifiers>Shift Alt</Modifiers>
           <Key>
-            <Key>7</Key>
-            <Code>8</Code>
+            <Key>1</Key>
+            <Code>2</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
@@ -32403,11 +32661,11 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <MacroCommands>/castsequence [nochanneling] Lightning Bolt,Chain Lightning,Lightning Bolt</MacroCommands>
         <ColloquialName>Lightning Bolt/Chain Lightning/Lightning Bolt</ColloquialName>
         <Combo>
-          <Combo>Ctrl+Shift+Alt+8</Combo>
-          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Combo>Shift+Alt+2</Combo>
+          <Modifiers>Shift Alt</Modifiers>
           <Key>
-            <Key>8</Key>
-            <Code>9</Code>
+            <Key>2</Key>
+            <Code>3</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
@@ -32416,11 +32674,11 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <MacroCommands>/cast [nochanneling] Lava Burst</MacroCommands>
         <ColloquialName>Lava Burst</ColloquialName>
         <Combo>
-          <Combo>Ctrl+Shift+Alt+9</Combo>
-          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Combo>Shift+Alt+3</Combo>
+          <Modifiers>Shift Alt</Modifiers>
           <Key>
-            <Key>9</Key>
-            <Code>10</Code>
+            <Key>3</Key>
+            <Code>4</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
@@ -32817,6 +33075,33 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         </Combo>
         <AllowCustomModifiers />
       </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Mind Freeze</MacroCommands>
+        <ColloquialName>Mind Freeze</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+9</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>9</Key>
+            <Code>10</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Death Grip
+/cast Dark Command</MacroCommands>
+        <ColloquialName>Death Grip/Dark Command</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+0</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>0</Key>
+            <Code>11</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
@@ -32837,7 +33122,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </WoWMacro>
       <WoWMacro>
         <MacroCommands>/castsequence  reset=target  Throw Glaive, null</MacroCommands>
-        <ColloquialName>Throw Glaive</ColloquialName>
+        <ColloquialName>Throw Glaive(Rotation)</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+2</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -32961,6 +33246,45 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>-</Key>
             <Code>12</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Torment</MacroCommands>
+        <ColloquialName>Torment</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+=</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>=</Key>
+            <Code>13</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Throw Glaive</MacroCommands>
+        <ColloquialName>Throw Glaive</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+1</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>1</Key>
+            <Code>2</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Disrupt</MacroCommands>
+        <ColloquialName>Disrupt</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+2</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>2</Key>
+            <Code>3</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
