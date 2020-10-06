@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/4/2020 3:33:15 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/6/2020 5:40:23 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -5267,7 +5267,7 @@
       <Slot>
         <ForegroundMaxFPS>60</ForegroundMaxFPS>
         <BackgroundMaxFPS>30</BackgroundMaxFPS>
-        <CharacterString>Elementfuria-Sargeras</CharacterString>
+        <CharacterString>Lightfuria-Sargeras</CharacterString>
         <SwitchToCombo>
           <Combo>Ctrl+Alt+1</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -14054,27 +14054,26 @@
   </Character>
   <Character>
     <ExecuteOnLoad />
-    <Name>Elementfuria-Sargeras</Name>
+    <Name>Lightfuria-Sargeras</Name>
     <AccountName />
     <SubAccountName>Character6SubAccount</SubAccountName>
     <ServerName>Sargeras</ServerName>
-    <ActualName>Elementfuria</ActualName>
+    <ActualName>Lightfuria</ActualName>
     <Game>World of Warcraft</Game>
     <GameProfile>World of Warcraft Client (DirectX 11 Legacy)</GameProfile>
     <KnownGame>WoW</KnownGame>
     <RelayGroupStrings>
       <string>Follower</string>
       <string>Combat</string>
-      <string>Ranged</string>
+      <string>Melee</string>
       <string>Interrupt</string>
-      <string>Shaman</string>
+      <string>Stun</string>
+      <string>Paladin</string>
     </RelayGroupStrings>
     <KeyMapStrings>
-      <string>ISB42 - Healer DPS Swap</string>
-      <string>Shaman - Elemental</string>
-      <string>Shaman - Enhancement</string>
-      <string>Shaman - Restoration</string>
-      <string>Shaman - Restoration(DPS)</string>
+      <string>Paladin - Holy</string>
+      <string>Paladin - Protection</string>
+      <string>Paladin - Retribution</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -14082,30 +14081,30 @@
     <MenuInstances />
     <VirtualFileTargets>
       <VirtualFileTarget>
-        <Filename>Battle.net-Elementfuria-Sargeras.config</Filename>
+        <Filename>Battle.net-Lightfuria-Sargeras.config</Filename>
         <VirtualFileString>Battle.net.config</VirtualFileString>
       </VirtualFileTarget>
       <VirtualFileTarget>
-        <Filename>Config-Elementfuria-Sargeras.WTF</Filename>
+        <Filename>Config-Lightfuria-Sargeras.WTF</Filename>
         <VirtualFileString>Config.WTF</VirtualFileString>
       </VirtualFileTarget>
       <VirtualFileTarget>
-        <Filename>Software/Blizzard Entertainment/Battle.net-ISBoxer/Elementfuria-Sargeras/</Filename>
+        <Filename>Software/Blizzard Entertainment/Battle.net-ISBoxer/Lightfuria-Sargeras/</Filename>
         <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
       </VirtualFileTarget>
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+        <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+        <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
+        <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
+        <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -14115,7 +14114,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Shaman - Restoration</KeyMapString>
+          <KeyMapString>Paladin - Protection</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -19453,7 +19452,9 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
       <MappedKey>
         <Name>AltO</Name>
         <Steps>
-          <Step />
+          <Step>
+            <Actions />
+          </Step>
         </Steps>
       </MappedKey>
       <MappedKey>
@@ -20459,27 +20460,27 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Step>
             <Actions>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Character6SubAccount-Eitrigg</Target>
+                <Target>Lightfuria-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Shaman - Restoration Spec</MappedKeyString>
+                <MappedKeyString>Paladin - Protection</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Blindfury-Eitrigg</Target>
-                <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Demon Hunter - Vengeance Spec</MappedKeyString>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Blindchaos-Eitrigg</Target>
+                <Target>Felfuria-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
                 <MappedKeyString>Demon Hunter - Havoc Spec</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Chaosglaive-Eitrigg</Target>
+                <Target>Blindfuria-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
                 <MappedKeyString>Demon Hunter - Havoc Spec</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Glaivestrike-Eitrigg</Target>
+                <Target>Glaivefuria-Sargeras</Target>
+                <KeyMapString>ISB42 - Class Specs</KeyMapString>
+                <MappedKeyString>Demon Hunter - Havoc Spec</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Demonfuria-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
                 <MappedKeyString>Demon Hunter - Havoc Spec</MappedKeyString>
               </MappedKeyAction>
@@ -20500,112 +20501,29 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Step>
             <Actions>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Character6SubAccount-Eitrigg</Target>
+                <Target>Lightfuria-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Shaman - Restoration Spec</MappedKeyString>
+                <MappedKeyString>Paladin - Protection</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Blindfury-Eitrigg</Target>
-                <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Demon Hunter - Vengeance Spec</MappedKeyString>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Blindchaos-Eitrigg</Target>
+                <Target>Felfuria-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
                 <MappedKeyString>Demon Hunter - Vengeance Spec</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Chaosglaive-Eitrigg</Target>
+                <Target>Blindfuria-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
                 <MappedKeyString>Demon Hunter - Vengeance Spec</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Glaivestrike-Eitrigg</Target>
+                <Target>Glaivefuria-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
                 <MappedKeyString>Demon Hunter - Vengeance Spec</MappedKeyString>
               </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
-      </MappedKey>
-      <MappedKey>
-        <Name>WorldStuffSpecs</Name>
-        <Combo>
-          <Combo>F10</Combo>
-          <Key>
-            <Key>F10</Key>
-            <Code>68</Code>
-          </Key>
-        </Combo>
-        <Steps>
-          <Step>
-            <Actions>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Character6SubAccount-Eitrigg</Target>
+                <Target>Demonfuria-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Shaman - Restoration Spec</MappedKeyString>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Blindfury-Eitrigg</Target>
-                <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Demon Hunter - Havoc Spec</MappedKeyString>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Blindchaos-Eitrigg</Target>
-                <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Demon Hunter - Havoc Spec</MappedKeyString>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Chaosglaive-Eitrigg</Target>
-                <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Demon Hunter - Havoc Spec</MappedKeyString>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Glaivestrike-Eitrigg</Target>
-                <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Demon Hunter - Havoc Spec</MappedKeyString>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
-      </MappedKey>
-      <MappedKey>
-        <Name>ShamanDPS Toggle</Name>
-        <Combo>
-          <Combo>F7</Combo>
-          <Key>
-            <Key>F7</Key>
-            <Code>65</Code>
-          </Key>
-        </Combo>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Elementfuria-Sargeras</Target>
-                <KeyMapString>ISB42 - Healer DPS Swap</KeyMapString>
-                <MappedKeyString>Restoration Shaman DPS Enable</MappedKeyString>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="PopupTextAction">
-                <Text>Healer DPS Active!!!!</Text>
-                <DurationMS>1000</DurationMS>
-                <Red>0</Red>
-                <Blue>0</Blue>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Elementfuria-Sargeras</Target>
-                <KeyMapString>ISB42 - Healer DPS Swap</KeyMapString>
-                <MappedKeyString>Restoration Shaman DPS Disable</MappedKeyString>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="PopupTextAction">
-                <Text>Healer DPS Disabled!!!!</Text>
-                <DurationMS>1000</DurationMS>
-                <Green>0</Green>
-                <Blue>0</Blue>
+                <MappedKeyString>Demon Hunter - Vengeance Spec</MappedKeyString>
               </MappedKeyAction>
             </Actions>
           </Step>
