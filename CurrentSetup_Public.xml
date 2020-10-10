@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/9/2020 11:37:08 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/10/2020 5:07:26 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -21230,6 +21230,48 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <Target>Shadowligera-Eitrigg</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
                 <MappedKeyString>Priest - Shadow Spec</MappedKeyString>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>ShamanDPS Toggle</Name>
+        <Combo>
+          <Combo>F7</Combo>
+          <Key>
+            <Key>F7</Key>
+            <Code>65</Code>
+          </Key>
+        </Combo>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Brightshadow-Eitrigg</Target>
+                <KeyMapString>ISB42 - Healer DPS Swap</KeyMapString>
+                <MappedKeyString>Restoration Shaman DPS Enable</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="PopupTextAction">
+                <Text>Healer DPS Active!!!!</Text>
+                <DurationMS>1000</DurationMS>
+                <Red>0</Red>
+                <Blue>0</Blue>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Brightshadow-Eitrigg</Target>
+                <KeyMapString>ISB42 - Healer DPS Swap</KeyMapString>
+                <MappedKeyString>Restoration Shaman DPS Disable</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="PopupTextAction">
+                <Text>Healer DPS Disabled!!!!</Text>
+                <DurationMS>1000</DurationMS>
+                <Green>0</Green>
+                <Blue>0</Blue>
               </MappedKeyAction>
             </Actions>
           </Step>
