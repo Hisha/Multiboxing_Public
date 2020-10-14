@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/13/2020 9:48:01 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/14/2020 6:02:47 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -11578,7 +11578,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
+        <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Warrior Macros</WoWMacroSetString>
@@ -11642,7 +11642,7 @@
         <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+        <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
@@ -11706,7 +11706,7 @@
         <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+        <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
@@ -11770,7 +11770,7 @@
         <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+        <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
@@ -11834,7 +11834,7 @@
         <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+        <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Shaman Macros</WoWMacroSetString>
@@ -13989,7 +13989,7 @@
         <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+        <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
@@ -14057,7 +14057,7 @@
         <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+        <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
@@ -14125,7 +14125,7 @@
         <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+        <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
@@ -14193,7 +14193,7 @@
         <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+        <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
@@ -15039,7 +15039,7 @@
         <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+        <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
@@ -24070,14 +24070,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>3</Combo>
-                  <Key>
-                    <Key>3</Key>
-                    <Code>4</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
+                  <WoWMacroString>Starfall</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -24104,14 +24102,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>5</Combo>
-                  <Key>
-                    <Key>5</Key>
-                    <Code>6</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
+                  <WoWMacroString>Renewal</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -24122,33 +24118,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>6</Combo>
-                  <Key>
-                    <Key>6</Key>
-                    <Code>7</Code>
-                  </Key>
-                </Combo>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
-      </MappedKey>
-      <MappedKey>
-        <Name>Alt2</Name>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>Alt+2</Combo>
-                  <Modifiers>Alt</Modifiers>
-                  <Key>
-                    <Key>2</Key>
-                    <Code>3</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
+                  <WoWMacroString>Wild Growth</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -28842,70 +28817,70 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
-                  <WoWMacroString>Rockbiter</WoWMacroString>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Flame Shock</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
                   <WoWMacroString>Crash Lightning</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
                   <WoWMacroString>Heart Essence</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
                   <WoWMacroString>Ascendance</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
                   <WoWMacroString>Lava Lash/Flametongue/Frostbrand</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
                   <WoWMacroString>Stormstrike</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
                   <WoWMacroString>Crash Lightning</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
                   <WoWMacroString>Stormstrike</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
                   <WoWMacroString>Feral Spirit</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
                   <WoWMacroString>Astral Shift</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -28921,7 +28896,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
                   <WoWMacroString>Wind Shear</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -28955,17 +28930,39 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </MappedKey>
       <MappedKey>
         <Name>Spellup</Name>
+        <ResetTimer>10</ResetTimer>
+        <ResetType>FromFirstPress</ResetType>
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>7</Combo>
-                  <Key>
-                    <Key>7</Key>
-                    <Code>8</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Windfury Weapon</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Flametongue Weapon</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Lightning Shield</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -28994,14 +28991,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>4</Combo>
-                  <Key>
-                    <Key>4</Key>
-                    <Code>5</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Chain Heal</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -29051,8 +29046,71 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 3232113)</WoWMacroSetString>
-                  <WoWMacroString>Healing Surge</WoWMacroString>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Flame Shock</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Crash Lightning</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Heart Essence</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Ascendance</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Lava Lash/Flametongue/Frostbrand</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Stormstrike</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Crash Lightning</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Stormstrike</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Feral Spirit</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Astral Shift</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -30673,106 +30731,85 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
-                  <WoWMacroString>Thunder Clap</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
-                  <WoWMacroString>Demoralizing Shout</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
                   <WoWMacroString>Avatar</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
-                  <WoWMacroString>Thunder Clap</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
                   <WoWMacroString>Victory Rush</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
-                  <WoWMacroString>Shield Slam</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
                   <WoWMacroString>Shield Block</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
-                  <WoWMacroString>Ignore Pain</WoWMacroString>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
+                  <WoWMacroString>Shield Bash</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
-                  <WoWMacroString>Revenge</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
-                  <WoWMacroString>Devastate</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
-                  <WoWMacroString>Ignore Pain</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
                   <WoWMacroString>Shield Slam</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
                   <WoWMacroString>Thunder Clap</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
-                  <WoWMacroString>Avatar</WoWMacroString>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
+                  <WoWMacroString>Demoralizing Shout</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
-                  <WoWMacroString>Demoralizing Shout/Last Stand</WoWMacroString>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
+                  <WoWMacroString>Dragon Roar</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
+                  <WoWMacroString>Ravager</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
+                  <WoWMacroString>Shockwave</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
+                  <WoWMacroString>Ignore Pain</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
+                  <WoWMacroString>Devastate</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -30805,7 +30842,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Warrior(Talents:2223111)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
                   <WoWMacroString>Shockwave</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -30853,17 +30890,19 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Name>Spellup</Name>
         <Steps>
           <Step>
+            <Stop>true</Stop>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>7</Combo>
-                  <Key>
-                    <Key>7</Key>
-                    <Code>8</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
+                  <WoWMacroString>Battle Shout</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
+          </Step>
+          <Step>
+            <Actions />
           </Step>
         </Steps>
       </MappedKey>
@@ -30944,15 +30983,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>Shift+2</Combo>
-                  <Modifiers>Shift</Modifiers>
-                  <Key>
-                    <Key>2</Key>
-                    <Code>3</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Warrior(Talents:1223331)</WoWMacroSetString>
+                  <WoWMacroString>Revenge</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -31870,6 +31906,45 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         </Combo>
         <AllowCustomModifiers />
       </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Starfall</MacroCommands>
+        <ColloquialName>Starfall</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+0</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>0</Key>
+            <Code>11</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Wild Growth</MacroCommands>
+        <ColloquialName>Wild Growth</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+-</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>-</Key>
+            <Code>12</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Renewal</MacroCommands>
+        <ColloquialName>Renewal</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+=</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>=</Key>
+            <Code>13</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
@@ -32607,11 +32682,11 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
-    <Name>Enhancement Shaman(Talents: 3232113)</Name>
+    <Name>Enhancement Shaman(Talents: 2131113)</Name>
     <WoWMacros>
       <WoWMacro>
-        <MacroCommands>/cast [nochanneling] Healing Surge</MacroCommands>
-        <ColloquialName>Healing Surge</ColloquialName>
+        <MacroCommands>/cast [@{SLOT1},nochanneling] Chain Heal</MacroCommands>
+        <ColloquialName>Chain Heal</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+1</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -32623,8 +32698,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [nochanneling] Rockbiter</MacroCommands>
-        <ColloquialName>Rockbiter</ColloquialName>
+        <MacroCommands>/cast [nochanneling] Flame Shock</MacroCommands>
+        <ColloquialName>Flame Shock</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+2</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -32675,7 +32750,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/castsequence [nochanneling] reset=combat  Lava Lash, Flametongue, Frostbrand</MacroCommands>
+        <MacroCommands>/castsequence [nochanneling] reset=combat  Lava Lash, FlameShock</MacroCommands>
         <ColloquialName>Lava Lash/Flametongue/Frostbrand</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+6</Combo>
@@ -32748,6 +32823,45 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>-</Key>
             <Code>12</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Windfury Weapon</MacroCommands>
+        <ColloquialName>Windfury Weapon</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+=</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>=</Key>
+            <Code>13</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Lightning Shield</MacroCommands>
+        <ColloquialName>Lightning Shield</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+'</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>'</Key>
+            <Code>40</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Flametongue Weapon</MacroCommands>
+        <ColloquialName>Flametongue Weapon</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+;</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>;</Key>
+            <Code>39</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
@@ -33614,11 +33728,11 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
-    <Name>Protection Warrior(Talents:2223111)</Name>
+    <Name>Protection Warrior(Talents:1223331)</Name>
     <WoWMacros>
       <WoWMacro>
-        <MacroCommands>/cast Thunder Clap</MacroCommands>
-        <ColloquialName>Thunder Clap</ColloquialName>
+        <MacroCommands>/cast [@playertarget, exists, nodead, harm, nochanneling] Heroic Throw</MacroCommands>
+        <ColloquialName>Heroic Throw</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+1</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -33630,8 +33744,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast Demoralizing Shout</MacroCommands>
-        <ColloquialName>Demoralizing Shout</ColloquialName>
+        <MacroCommands>/cast [@playertarget, exists, combat, nodead, harm, nochanneling] Avatar</MacroCommands>
+        <ColloquialName>Avatar</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+2</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -33643,8 +33757,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast Avatar</MacroCommands>
-        <ColloquialName>Avatar</ColloquialName>
+        <MacroCommands>/cast [@playertarget, exists, combat, nodead, harm, nochanneling] Victory Rush</MacroCommands>
+        <ColloquialName>Victory Rush</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+3</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -33656,8 +33770,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast Victory Rush</MacroCommands>
-        <ColloquialName>Victory Rush</ColloquialName>
+        <MacroCommands>/cast [@playertarget, exists, combat, nodead, harm, nochanneling] Shield Block</MacroCommands>
+        <ColloquialName>Shield Block</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+4</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -33669,8 +33783,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast Shield Slam</MacroCommands>
-        <ColloquialName>Shield Slam</ColloquialName>
+        <MacroCommands>/cast [@playertarget, exists, combat, nodead, harm, nochanneling] Shield Bash</MacroCommands>
+        <ColloquialName>Shield Bash</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+5</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -33682,8 +33796,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast Shield Block</MacroCommands>
-        <ColloquialName>Shield Block</ColloquialName>
+        <MacroCommands>/cast [@playertarget, exists, combat, nodead, harm, nochanneling] Shield Slam</MacroCommands>
+        <ColloquialName>Shield Slam</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+6</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -33695,8 +33809,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast Ignore Pain</MacroCommands>
-        <ColloquialName>Ignore Pain</ColloquialName>
+        <MacroCommands>/cast [@playertarget, exists, combat, nodead, harm, nochanneling] Thunder Clap</MacroCommands>
+        <ColloquialName>Thunder Clap</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+7</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -33708,8 +33822,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast Revenge</MacroCommands>
-        <ColloquialName>Revenge</ColloquialName>
+        <MacroCommands>/cast [@playertarget, exists, combat, nodead, harm, nochanneling] Demoralizing Shout</MacroCommands>
+        <ColloquialName>Demoralizing Shout</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+8</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -33721,8 +33835,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast Devastate</MacroCommands>
-        <ColloquialName>Devastate</ColloquialName>
+        <MacroCommands>/cast [@playertarget, exists, combat, nodead, harm, nochanneling, talent:3/3] Dragon Roar</MacroCommands>
+        <ColloquialName>Dragon Roar</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+9</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -33734,8 +33848,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/castsequence reset=combat Demoralizing Shout, Last Stand</MacroCommands>
-        <ColloquialName>Demoralizing Shout/Last Stand</ColloquialName>
+        <MacroCommands>/cast [@player, combat, nochanneling] Ravager</MacroCommands>
+        <ColloquialName>Ravager</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+0</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -33747,7 +33861,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast Shockwave</MacroCommands>
+        <MacroCommands>/cast [@playertarget, exists, combat, nodead, harm, nochanneling] Shockwave</MacroCommands>
         <ColloquialName>Shockwave</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+-</Combo>
@@ -33755,6 +33869,58 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>-</Key>
             <Code>12</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [@playertarget, exists, combat, nodead, harm, nochanneling] Ignore Pain</MacroCommands>
+        <ColloquialName>Ignore Pain</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+=</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>=</Key>
+            <Code>13</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [@playertarget, exists, combat, nodead, harm, nochanneling] Revenge</MacroCommands>
+        <ColloquialName>Revenge</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+'</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>'</Key>
+            <Code>40</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [@playertarget, exists, combat, nodead, harm, nochanneling] Devastate</MacroCommands>
+        <ColloquialName>Devastate</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+;</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>;</Key>
+            <Code>39</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Battle Shout</MacroCommands>
+        <ColloquialName>Battle Shout</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+/</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>/</Key>
+            <Code>53</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
