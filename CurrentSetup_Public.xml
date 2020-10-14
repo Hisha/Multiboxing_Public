@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/10/2020 5:07:26 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/13/2020 9:48:01 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -1365,7 +1365,7 @@
       <Slot>
         <ForegroundMaxFPS>60</ForegroundMaxFPS>
         <BackgroundMaxFPS>30</BackgroundMaxFPS>
-        <CharacterString>Shadowligera-Eitrigg</CharacterString>
+        <CharacterString>Darkpally-Eitrigg</CharacterString>
         <SwitchToCombo>
           <Combo>Ctrl+Alt+5</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -9505,7 +9505,7 @@
         <WoWMacroSetString>Druid Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -9573,7 +9573,7 @@
         <WoWMacroSetString>Druid Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -9641,7 +9641,7 @@
         <WoWMacroSetString>Druid Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -9709,7 +9709,7 @@
         <WoWMacroSetString>Druid Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -9777,7 +9777,7 @@
         <WoWMacroSetString>Druid Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -10881,7 +10881,7 @@
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Druid Macros</WoWMacroSetString>
@@ -10946,7 +10946,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -11014,7 +11014,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -11082,7 +11082,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -11150,7 +11150,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -12372,10 +12372,13 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
+        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
+        <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -12432,10 +12435,13 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
+        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
+        <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -12492,10 +12498,13 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
+        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
+        <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -13231,7 +13240,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -13296,7 +13305,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -13361,7 +13370,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -13426,7 +13435,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -13491,7 +13500,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+        <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Guardian Druid(Talents:1331231)</WoWMacroSetString>
@@ -15090,10 +15099,13 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
+        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
+        <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -15153,7 +15165,10 @@
         <WoWMacroSetString>Warlock Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+        <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
+      </WoWMacroSetLooseRef>
+      <WoWMacroSetLooseRef>
+        <WoWMacroSetString>Destruction Warlock(Talents:1113123)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -15171,25 +15186,26 @@
   </Character>
   <Character>
     <ExecuteOnLoad />
-    <Name>Shadowligera-Eitrigg</Name>
+    <Name>Darkpally-Eitrigg</Name>
     <AccountName />
     <SubAccountName>Character4SubAccount</SubAccountName>
     <ServerName>Eitrigg</ServerName>
-    <ActualName>Shadowligera</ActualName>
+    <ActualName>Darkpally</ActualName>
     <Game>World of Warcraft</Game>
     <GameProfile>World of Warcraft Client (DirectX 11 Legacy)</GameProfile>
     <KnownGame>WoW</KnownGame>
     <RelayGroupStrings>
       <string>Follower</string>
       <string>Combat</string>
-      <string>Ranged</string>
-      <string>Priest</string>
+      <string>Melee</string>
+      <string>Interrupt</string>
+      <string>Stun</string>
+      <string>Paladin</string>
     </RelayGroupStrings>
     <KeyMapStrings>
-      <string>Priest - Discipline</string>
-      <string>Priest - Holy</string>
-      <string>Priest - Holy(DPS)</string>
-      <string>Priest - Shadow</string>
+      <string>Paladin - Holy</string>
+      <string>Paladin - Protection</string>
+      <string>Paladin - Retribution</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -15197,30 +15213,30 @@
     <MenuInstances />
     <VirtualFileTargets>
       <VirtualFileTarget>
-        <Filename>Battle.net-Shadowligera-Eitrigg.config</Filename>
+        <Filename>Battle.net-Darkpally-Eitrigg.config</Filename>
         <VirtualFileString>Battle.net.config</VirtualFileString>
       </VirtualFileTarget>
       <VirtualFileTarget>
-        <Filename>Config-Shadowligera-Eitrigg.WTF</Filename>
+        <Filename>Config-Darkpally-Eitrigg.WTF</Filename>
         <VirtualFileString>Config.WTF</VirtualFileString>
       </VirtualFileTarget>
       <VirtualFileTarget>
-        <Filename>Software/Blizzard Entertainment/Battle.net-ISBoxer/Shadowligera-Eitrigg/</Filename>
+        <Filename>Software/Blizzard Entertainment/Battle.net-ISBoxer/Darkpally-Eitrigg/</Filename>
         <VirtualFileString>Software/Blizzard Entertainment/Battle.net/</VirtualFileString>
       </VirtualFileTarget>
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Priest Macros</WoWMacroSetString>
+        <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
+        <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Holy Priest(Talents:1112321)</WoWMacroSetString>
+        <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
+        <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -15230,7 +15246,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Priest - Shadow</KeyMapString>
+          <KeyMapString>Paladin - Retribution</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -21227,9 +21243,9 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <MappedKeyString>Warlock - Affliction Spec</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Shadowligera-Eitrigg</Target>
+                <Target>Darkpally-Eitrigg</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Priest - Shadow Spec</MappedKeyString>
+                <MappedKeyString>Paladin - Retribution</MappedKeyString>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -23947,50 +23963,50 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+                  <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
                   <WoWMacroString>Moonkin Form</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
-                  <WoWMacroString>Celestial Alignment</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+                  <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
                   <WoWMacroString>Moonfire/Sunfire</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+                  <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
+                  <WoWMacroString>Barkskin</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
+                  <WoWMacroString>Celestial Alignment</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
                   <WoWMacroString>Starsurge</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
-                  <WoWMacroString>Solor Wrath/Sunfire</WoWMacroString>
+                  <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
+                  <WoWMacroString>Wrath/Sunfire</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
-                  <WoWMacroString>Lunar Strike/Moonfire</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
-                  <WoWMacroString>Starsurge</WoWMacroString>
+                  <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
+                  <WoWMacroString>Starfire/Moonfire</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -24075,7 +24091,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Balance Druid(Talents:1233221)</WoWMacroSetString>
+                  <WoWMacroSetString>Balance Druid(Talents:1233211)</WoWMacroSetString>
                   <WoWMacroString>Rejuvenation Tank</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -27042,7 +27058,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
-                  <WoWMacroString>GBoW(Healer)</WoWMacroString>
+                  <WoWMacroString>GBoW(SLOT1)</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
@@ -27050,7 +27066,15 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
-                  <WoWMacroString>GBoW(Tank)</WoWMacroString>
+                  <WoWMacroString>GBoW(SLOT2)</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Darkpally-Eitrigg</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
+                  <WoWMacroString>GBoW(SLOT2)</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -29438,56 +29462,56 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Agony</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Felhunter</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Agony/Haunt/Deathbolt</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Shadow Bolt</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Unstable Affliction/Agony/Corruption</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Shadow Bolt</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Unending Resolve</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Summon Darkglare</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -29617,56 +29641,56 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Agony</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Felhunter</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Agony/Haunt/Deathbolt</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Seed of Corruption/Agony/Corruption</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Phantom Singularity</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Shadow Bolt</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Unending Resolve</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Affliction Warlock(Talents: 3112122)</WoWMacroSetString>
+                  <WoWMacroSetString>Affliction Warlock(Talents: 1112122)</WoWMacroSetString>
                   <WoWMacroString>Summon Darkglare</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -31419,7 +31443,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </WoWMacro>
       <WoWMacro>
         <MacroCommands>/cast [@{SLOT1}] Greater Blessing of Wisdom</MacroCommands>
-        <ColloquialName>GBoW(Healer)</ColloquialName>
+        <ColloquialName>GBoW(SLOT1)</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+'</Combo>
           <Modifiers>Shift Alt</Modifiers>
@@ -31432,7 +31456,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </WoWMacro>
       <WoWMacro>
         <MacroCommands>/cast [@{SLOT2}] Greater Blessing of Wisdom</MacroCommands>
-        <ColloquialName>GBoW(Tank)</ColloquialName>
+        <ColloquialName>GBoW(SLOT2)</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+'</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -31618,7 +31642,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
-    <Name>Affliction Warlock(Talents: 3112122)</Name>
+    <Name>Affliction Warlock(Talents: 1112122)</Name>
     <WoWMacros>
       <WoWMacro>
         <MacroCommands>/castsequence [nochanneling] reset=target  Agony, null</MacroCommands>
@@ -31740,7 +31764,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
-    <Name>Balance Druid(Talents:1233221)</Name>
+    <Name>Balance Druid(Talents:1233211)</Name>
     <WoWMacros>
       <WoWMacro>
         <MacroCommands>/cast [noform] Moonkin Form</MacroCommands>
@@ -31795,8 +31819,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/castsequence reset=target/combat Solar Wrath,Solar Wrath,Solar Wrath,Sunfire</MacroCommands>
-        <ColloquialName>Solor Wrath/Sunfire</ColloquialName>
+        <MacroCommands>/castsequence reset=target/combat Wrath,Wrath,Wrath,Sunfire</MacroCommands>
+        <ColloquialName>Wrath/Sunfire</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+6</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
@@ -31808,8 +31832,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/castsequence reset=target/combat Lunar Strike,Lunar Strike,Lunar Strike,Lunar Strike,Moonfire</MacroCommands>
-        <ColloquialName>Lunar Strike/Moonfire</ColloquialName>
+        <MacroCommands>/castsequence reset=target/combat Starfire, Starfire, Starfire, Starfire, Moonfire</MacroCommands>
+        <ColloquialName>Starfire/Moonfire</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+7</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
@@ -31829,6 +31853,19 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>8</Key>
             <Code>9</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Barkskin</MacroCommands>
+        <ColloquialName>Barkskin</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+9</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>9</Key>
+            <Code>10</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
