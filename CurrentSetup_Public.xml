@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/14/2020 6:02:47 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/15/2020 12:18:40 AM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -28662,17 +28662,28 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </MappedKey>
       <MappedKey>
         <Name>Spellup</Name>
+        <ResetTimer>10</ResetTimer>
+        <ResetType>FromFirstPress</ResetType>
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>7</Combo>
-                  <Key>
-                    <Key>7</Key>
-                    <Code>8</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Flametongue Weapon</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Lightning Shield</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -28719,14 +28730,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>5</Combo>
-                  <Key>
-                    <Key>5</Key>
-                    <Code>6</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Healing Surge (SLOT1)</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -28737,52 +28746,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>6</Combo>
-                  <Key>
-                    <Key>6</Key>
-                    <Code>7</Code>
-                  </Key>
-                </Combo>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
-      </MappedKey>
-      <MappedKey>
-        <Name>Shift2</Name>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>Shift+2</Combo>
-                  <Modifiers>Shift</Modifiers>
-                  <Key>
-                    <Key>2</Key>
-                    <Code>3</Code>
-                  </Key>
-                </Combo>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
-      </MappedKey>
-      <MappedKey>
-        <Name>Alt2</Name>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>Alt+2</Combo>
-                  <Modifiers>Alt</Modifiers>
-                  <Key>
-                    <Key>2</Key>
-                    <Code>3</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Healing Surge</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -28973,14 +28942,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>3</Combo>
-                  <Key>
-                    <Key>3</Key>
-                    <Code>4</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Windfury Totem</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -29007,14 +28974,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>5</Combo>
-                  <Key>
-                    <Key>5</Key>
-                    <Code>6</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
+                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -29192,17 +29157,28 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </MappedKey>
       <MappedKey>
         <Name>Spellup</Name>
+        <ResetTimer>10</ResetTimer>
+        <ResetType>FromFirstPress</ResetType>
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>7</Combo>
-                  <Key>
-                    <Key>7</Key>
-                    <Code>8</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
+                  <WoWMacroString>Flametongue Weapon</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
+                  <WoWMacroString>Water Shield</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -29374,17 +29350,28 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </MappedKey>
       <MappedKey>
         <Name>Spellup</Name>
+        <ResetTimer>10</ResetTimer>
+        <ResetType>FromFirstPress</ResetType>
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>7</Combo>
-                  <Key>
-                    <Key>7</Key>
-                    <Code>8</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
+                  <WoWMacroString>Flametongue Weapon</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Restoration Shaman(Talents:2122232)</WoWMacroSetString>
+                  <WoWMacroString>Water Shield</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -32679,6 +32666,58 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         </Combo>
         <AllowCustomModifiers />
       </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Flametongue Weapon</MacroCommands>
+        <ColloquialName>Flametongue Weapon</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+9</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>9</Key>
+            <Code>10</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Lightning Shield</MacroCommands>
+        <ColloquialName>Lightning Shield</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+0</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>0</Key>
+            <Code>11</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [@{SLOT1}] Healing Surge</MacroCommands>
+        <ColloquialName>Healing Surge (SLOT1)</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+-</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>-</Key>
+            <Code>12</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Healing Surge</MacroCommands>
+        <ColloquialName>Healing Surge</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+=</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>=</Key>
+            <Code>13</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
@@ -32862,6 +32901,32 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>;</Key>
             <Code>39</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Healing Stream Totem</MacroCommands>
+        <ColloquialName>Healing Stream Totem</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+/</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>/</Key>
+            <Code>53</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Windfury Totem</MacroCommands>
+        <ColloquialName>Windfury Totem</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+.</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
+          <Key>
+            <Key>.</Key>
+            <Code>52</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
@@ -33978,6 +34043,32 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>4</Key>
             <Code>5</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Water Shield</MacroCommands>
+        <ColloquialName>Water Shield</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+5</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>5</Key>
+            <Code>6</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Flametongue Weapon</MacroCommands>
+        <ColloquialName>Flametongue Weapon</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+6</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>6</Key>
+            <Code>7</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
