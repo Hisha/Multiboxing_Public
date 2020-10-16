@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/15/2020 12:18:40 AM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/15/2020 10:08:44 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -10204,7 +10204,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+        <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
@@ -11243,10 +11243,10 @@
         <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+        <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+        <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11308,10 +11308,10 @@
         <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+        <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+        <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11373,7 +11373,7 @@
         <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+        <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11435,7 +11435,7 @@
         <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+        <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -11497,7 +11497,7 @@
         <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+        <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -12249,7 +12249,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+        <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
@@ -12584,7 +12584,7 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+        <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
@@ -14280,13 +14280,13 @@
     </VirtualFileTargets>
     <WoWMacroSets>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+        <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+        <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+        <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
@@ -14629,13 +14629,13 @@
         <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+        <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+        <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+        <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -14645,7 +14645,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Paladin - Protection</KeyMapString>
+          <KeyMapString>Paladin - Holy</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -15230,13 +15230,13 @@
         <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+        <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+        <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+        <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
     </WoWMacroSets>
     <CrypticMacroSets />
@@ -21313,7 +21313,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
                 <Target>Lightfuria-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Paladin - Protection</MappedKeyString>
+                <MappedKeyString>Paladin - Holy</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
                 <Target>Felfuria-Sargeras</Target>
@@ -21354,7 +21354,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
                 <Target>Lightfuria-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Paladin - Protection</MappedKeyString>
+                <MappedKeyString>Paladin - Holy</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
                 <Target>Felfuria-Sargeras</Target>
@@ -26366,36 +26366,50 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
-                  <WoWMacroString>Holy Avenger</WoWMacroString>
+                  <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
+                  <WoWMacroString>Hammer of Wrath</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+                  <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
                   <WoWMacroString>Light of Dawn</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+                  <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
                   <WoWMacroString>Judgment</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+                  <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
+                  <WoWMacroString>Holy Prism</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
                   <WoWMacroString>Light of Dawn</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+                  <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
                   <WoWMacroString>Crusader Strike</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
+                  <WoWMacroString>Avenging Crusader</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -26410,7 +26424,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+                  <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
                   <WoWMacroString>Rebuke</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -26426,7 +26440,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+                  <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
                   <WoWMacroString>Hammer of Justice</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -26568,7 +26582,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+                  <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
                   <WoWMacroString>Holy Shock</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -26584,7 +26598,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Holy Paladin(Talents:1223321)</WoWMacroSetString>
+                  <WoWMacroSetString>Holy Paladin(Talents:1331121)</WoWMacroSetString>
                   <WoWMacroString>Cleanse</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -26605,43 +26619,57 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Ardent Defender</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Hammer of Wrath</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Shield of the Righteous</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Avenging Wrath</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Avengers Shield</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Judgment</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Consecration</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Hammer of Righteous/Consecration</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
-                  <WoWMacroString>Shield of the Righteous/Hand of the Protector</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -26656,7 +26684,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Rebuke</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -26672,7 +26700,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Hammer of Justice</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -26688,7 +26716,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Hand of Reckoning</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -26704,7 +26732,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Avengers Shield</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -26796,43 +26824,57 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Ardent Defender</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Hammer of Wrath</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Shield of the Righteous</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Avenging Wrath</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Avengers Shield</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Judgment</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Consecration</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Hammer of Righteous/Consecration</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
-                  <WoWMacroString>Shield of the Righteous/Hand of the Protector</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -26847,7 +26889,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Cleanse Toxins</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -26863,7 +26905,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3222312)</WoWMacroSetString>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Lay on Hands</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -26884,78 +26926,85 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Divine Storm/Templars Verdict</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Judgment</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Crusader Strike</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Shield of Vengeance</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Blade of Justice</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Heart Essence</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
                   <WoWMacroString>Avenging Wrath</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Crusader Strike</WoWMacroString>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Divine Storm</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Lights Judgment</WoWMacroString>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Blade of Justice</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Judgment</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Divine Storm</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Blade of Justice</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Shield of Vengeance</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
                   <WoWMacroString>Wake of Ashes</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Divine Storm/Templars Verdict</WoWMacroString>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Crusader Strike</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Blade of Justice</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Crusader Strike</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Divine Storm</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -26970,7 +27019,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
                   <WoWMacroString>Rebuke</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -27014,47 +27063,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </MappedKey>
       <MappedKey>
         <Name>Spellup</Name>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
-                  <WoWMacroString>GBoK(Self)</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <Target>Letyoudown-Eitrigg</Target>
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
-                  <WoWMacroString>GBoW(SLOT1)</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <Target>Runaround-Eitrigg</Target>
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
-                  <WoWMacroString>GBoW(SLOT2)</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <Target>Darkpally-Eitrigg</Target>
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Paladin Macros</WoWMacroSetString>
-                  <WoWMacroString>GBoW(SLOT2)</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
+        <Steps />
       </MappedKey>
       <MappedKey>
         <Name>Key3</Name>
@@ -27136,78 +27145,85 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Divine Storm/Templars Verdict</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Judgment</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Crusader Strike</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Shield of Vengeance</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Blade of Justice</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Heart Essence</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
                   <WoWMacroString>Avenging Wrath</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Crusader Strike</WoWMacroString>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Divine Storm</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Lights Judgment</WoWMacroString>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Blade of Justice</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Judgment</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Divine Storm</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Blade of Justice</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Shield of Vengeance</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
                   <WoWMacroString>Wake of Ashes</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Retribution Paladin(Talents:1213111)</WoWMacroSetString>
-                  <WoWMacroString>Divine Storm/Templars Verdict</WoWMacroString>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Crusader Strike</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Blade of Justice</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Crusader Strike</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Retribution Paladin(Talents:2211113)</WoWMacroSetString>
+                  <WoWMacroString>Divine Storm</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -27236,14 +27252,28 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
-                  <WoWMacroString>Shadow Word Pain</WoWMacroString>
+                  <WoWMacroString>Shadow Word Pain(CastSequence)</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
-                  <WoWMacroString>Power Word Solace/Shadow Word Pain/Penance</WoWMacroString>
+                  <WoWMacroString>Schism</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
+                  <WoWMacroString>Penance/Mind Blast/Power Word Solace</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
+                  <WoWMacroString>Penance</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
@@ -27257,7 +27287,14 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
-                  <WoWMacroString>Schism/Power Word Radiance</WoWMacroString>
+                  <WoWMacroString>Shadow Word Death</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
+                  <WoWMacroString>Power Word Solace</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
@@ -27271,7 +27308,14 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
-                  <WoWMacroString>Shadowfiend</WoWMacroString>
+                  <WoWMacroString>Schism</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
+                  <WoWMacroString>Shadow Word Pain</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -27343,7 +27387,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
-                  <WoWMacroString>Penance</WoWMacroString>
+                  <WoWMacroString>Penance(Heal SLOT1)</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -27368,19 +27412,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </MappedKey>
       <MappedKey>
         <Name>Key5</Name>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
-                  <WoWMacroString>Shadow Covenant</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
+        <Steps />
       </MappedKey>
       <MappedKey>
         <Name>Key6</Name>
@@ -27395,7 +27427,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
-                  <WoWMacroString>Rapture</WoWMacroString>
+                  <WoWMacroString>Mind Sear</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -28734,7 +28766,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
-                  <WoWMacroString>Healing Surge (SLOT1)</WoWMacroString>
+                  <WoWMacroString>Chain Heal (SLOT1)</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -28750,7 +28782,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
-                  <WoWMacroString>Healing Surge</WoWMacroString>
+                  <WoWMacroString>Chain Heal</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -32455,7 +32487,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
       </WoWMacro>
       <WoWMacro>
         <MacroCommands>/castsequence [nochanneling] reset=target Shadow Word: Pain,null</MacroCommands>
-        <ColloquialName>Shadow Word Pain</ColloquialName>
+        <ColloquialName>Shadow Word Pain(CastSequence)</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+3</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
@@ -32467,8 +32499,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/castsequence [nochanneling] reset=combat  Power Word: Solace, Shadow Word: Pain, Penance</MacroCommands>
-        <ColloquialName>Power Word Solace/Shadow Word Pain/Penance</ColloquialName>
+        <MacroCommands>/cast [nochanneling] Smite</MacroCommands>
+        <ColloquialName>Smite</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+4</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
@@ -32480,8 +32512,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [nochanneling] Smite</MacroCommands>
-        <ColloquialName>Smite</ColloquialName>
+        <MacroCommands>/cast [combat,nochanneling] Fade</MacroCommands>
+        <ColloquialName>Fade</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+5</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
@@ -32493,8 +32525,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/castsequence [nochanneling] reset=combat  Schism, Power Word: Radiance</MacroCommands>
-        <ColloquialName>Schism/Power Word Radiance</ColloquialName>
+        <MacroCommands>/cast [nochanneling] Penance</MacroCommands>
+        <ColloquialName>Penance</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+6</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
@@ -32506,8 +32538,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [combat,nochanneling] Fade</MacroCommands>
-        <ColloquialName>Fade</ColloquialName>
+        <MacroCommands>/cast [combat,nochanneling] Schism</MacroCommands>
+        <ColloquialName>Schism</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+7</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
@@ -32519,8 +32551,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [nochanneling] Rapture</MacroCommands>
-        <ColloquialName>Rapture</ColloquialName>
+        <MacroCommands>/castsequence [nochanneling] Penance, Mind Blast, Power Word: Solace, Shadow Word: Pain</MacroCommands>
+        <ColloquialName>Penance/Mind Blast/Power Word Solace</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+8</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
@@ -32532,8 +32564,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [@{SLOT1},nochanneling] Penance</MacroCommands>
-        <ColloquialName>Penance</ColloquialName>
+        <MacroCommands>/cast [nochanneling] Shadow Word: Death</MacroCommands>
+        <ColloquialName>Shadow Word Death</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+9</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
@@ -32545,14 +32577,53 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [@mouseover,nochanneling] Shadow Covenant</MacroCommands>
-        <ColloquialName>Shadow Covenant</ColloquialName>
+        <MacroCommands>/cast [nochanneling] Power Word: Solace</MacroCommands>
+        <ColloquialName>Power Word Solace</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+0</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
           <Key>
             <Key>0</Key>
             <Code>11</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [nochanneling] Shadow Word: Pain</MacroCommands>
+        <ColloquialName>Shadow Word Pain</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+-</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>-</Key>
+            <Code>12</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Mind Sear</MacroCommands>
+        <ColloquialName>Mind Sear</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+=</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>=</Key>
+            <Code>13</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [@{SLOT1},nochanneling] Penance</MacroCommands>
+        <ColloquialName>Penance(Heal SLOT1)</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+;</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>;</Key>
+            <Code>39</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
@@ -32693,8 +32764,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [@{SLOT1}] Healing Surge</MacroCommands>
-        <ColloquialName>Healing Surge (SLOT1)</ColloquialName>
+        <MacroCommands>/cast [@{SLOT1}] Chain Heal</MacroCommands>
+        <ColloquialName>Chain Heal (SLOT1)</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+-</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
@@ -32706,8 +32777,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast Healing Surge</MacroCommands>
-        <ColloquialName>Healing Surge</ColloquialName>
+        <MacroCommands>/cast Chain Heal</MacroCommands>
+        <ColloquialName>Chain Heal</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+=</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
@@ -33383,11 +33454,11 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
-    <Name>Holy Paladin(Talents:1223321)</Name>
+    <Name>Holy Paladin(Talents:1331121)</Name>
     <WoWMacros>
       <WoWMacro>
-        <MacroCommands>/cast [nochanneling,combat] Holy Avenger</MacroCommands>
-        <ColloquialName>Holy Avenger</ColloquialName>
+        <MacroCommands>/cast [nochanneling,combat] Holy Prism</MacroCommands>
+        <ColloquialName>Holy Prism</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+1</Combo>
           <Modifiers>Shift Alt</Modifiers>
@@ -33485,6 +33556,32 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>8</Key>
             <Code>9</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [nochanneling,combat] Hammer of Wrath</MacroCommands>
+        <ColloquialName>Hammer of Wrath</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+9</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>9</Key>
+            <Code>10</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [nochanneling,combat] Avenging Crusader</MacroCommands>
+        <ColloquialName>Avenging Crusader</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+0</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>0</Key>
+            <Code>11</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
@@ -33645,7 +33742,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
-    <Name>Protection Paladin(Talents:3222312)</Name>
+    <Name>Protection Paladin(Talents:3131112)</Name>
     <WoWMacros>
       <WoWMacro>
         <MacroCommands>/cast [combat] Avenging Wrath</MacroCommands>
@@ -33713,8 +33810,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/castsequence [combat] reset=15  Shield of the Righteous, Hand of the Protector</MacroCommands>
-        <ColloquialName>Shield of the Righteous/Hand of the Protector</ColloquialName>
+        <MacroCommands>/cast Shield of the Righteous</MacroCommands>
+        <ColloquialName>Shield of the Righteous</ColloquialName>
         <Combo>
           <Combo>Ctrl+Shift+Alt+6</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
@@ -33786,6 +33883,32 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>-</Key>
             <Code>12</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [combat] Ardent Defender</MacroCommands>
+        <ColloquialName>Ardent Defender</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+=</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>=</Key>
+            <Code>13</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Hammer of Wrath</MacroCommands>
+        <ColloquialName>Hammer of Wrath</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+;</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>;</Key>
+            <Code>39</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
@@ -34076,11 +34199,11 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
-    <Name>Retribution Paladin(Talents:1213111)</Name>
+    <Name>Retribution Paladin(Talents:2211113)</Name>
     <WoWMacros>
       <WoWMacro>
-        <MacroCommands>/cast [nochanneling] Divine Storm; Templar's Verdict</MacroCommands>
-        <ColloquialName>Divine Storm/Templars Verdict</ColloquialName>
+        <MacroCommands>/cast [nochanneling] Divine Storm</MacroCommands>
+        <ColloquialName>Divine Storm</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+1</Combo>
           <Modifiers>Ctrl Alt</Modifiers>
@@ -34157,7 +34280,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [nochanneling] Avenging Wrath</MacroCommands>
+        <MacroCommands>/cast [nochanneling,combat] Avenging Wrath</MacroCommands>
         <ColloquialName>Avenging Wrath</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+7</Combo>
@@ -34183,7 +34306,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [nochanneling] Wake of Ashes</MacroCommands>
+        <MacroCommands>/cast [nochanneling,combat] Wake of Ashes</MacroCommands>
         <ColloquialName>Wake of Ashes</ColloquialName>
         <Combo>
           <Combo>Ctrl+Alt+9</Combo>
