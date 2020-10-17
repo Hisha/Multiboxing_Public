@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/17/2020 12:20:17 AM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/17/2020 3:32:20 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -16345,7 +16345,7 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
         </Steps>
       </MappedKey>
       <MappedKey>
-        <Name>Flying V Formation</Name>
+        <Name>Corners Formation</Name>
         <Description>Make sure your movement keys are configured under Variable Keystrokes in order to use this Formation!
 
 The Flying V aligns your characters in a V behind the active character</Description>
@@ -16373,47 +16373,27 @@ The Flying V aligns your characters in a V behind the active character</Descript
               </MappedKeyAction>
               <MappedKeyAction xsi:type="VariableKeystrokeAction">
                 <Target>(@other isboxer&amp;~dxnothing)#2</Target>
-                <Name>Move Backward</Name>
+                <Name>Move Forward</Name>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="VariableKeystrokeAction">
                 <Target>(@other isboxer&amp;~dxnothing)#2</Target>
-                <Name>Move Right</Name>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="VariableKeystrokeAction">
-                <Target>(@other isboxer&amp;~dxnothing)#3</Target>
-                <Name>Move Backward</Name>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="VariableKeystrokeAction">
-                <Target>(@other isboxer&amp;~dxnothing)#3</Target>
                 <Name>Move Left</Name>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="VariableKeystrokeAction">
-                <Target>(@other isboxer&amp;~dxnothing)#4</Target>
-                <Name>Move Backward</Name>
+                <Target>(@other isboxer&amp;~dxnothing)#3</Target>
+                <Name>Move Right</Name>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="VariableKeystrokeAction">
+                <Target>(@other isboxer&amp;~dxnothing)#3</Target>
+                <Name>Move Forward</Name>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="VariableKeystrokeAction">
                 <Target>(@other isboxer&amp;~dxnothing)#4</Target>
                 <Name>Move Right</Name>
               </MappedKeyAction>
-            </Actions>
-          </Step>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="VariableKeystrokeAction">
-                <Target>(@other isboxer&amp;~dxnothing)#3</Target>
-                <Name>Move Backward</Name>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="VariableKeystrokeAction">
-                <Target>(@other isboxer&amp;~dxnothing)#3</Target>
-                <Name>Move Left</Name>
-              </MappedKeyAction>
               <MappedKeyAction xsi:type="VariableKeystrokeAction">
                 <Target>(@other isboxer&amp;~dxnothing)#4</Target>
                 <Name>Move Backward</Name>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="VariableKeystrokeAction">
-                <Target>(@other isboxer&amp;~dxnothing)#4</Target>
-                <Name>Move Right</Name>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -35080,7 +35060,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Actions>
           <MappedKeyAction xsi:type="MappedKeyExecuteAction">
             <KeyMapString>ISB42 - Base Hotkeys</KeyMapString>
-            <MappedKeyString>Flying V Formation</MappedKeyString>
+            <MappedKeyString>Corners Formation</MappedKeyString>
           </MappedKeyAction>
         </Actions>
         <DisplayText>Flying V</DisplayText>
