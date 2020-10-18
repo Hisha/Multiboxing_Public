@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/17/2020 3:32:20 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/18/2020 5:35:53 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -11618,6 +11618,7 @@
       <string>Shaman - Elemental</string>
       <string>Shaman - Enhancement</string>
       <string>Shaman - Restoration</string>
+      <string>ISB42 - Enhancement Shaman Keys</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -11682,6 +11683,7 @@
       <string>Shaman - Elemental</string>
       <string>Shaman - Enhancement</string>
       <string>Shaman - Restoration</string>
+      <string>ISB42 - Enhancement Shaman Keys</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -11746,6 +11748,7 @@
       <string>Shaman - Elemental</string>
       <string>Shaman - Enhancement</string>
       <string>Shaman - Restoration</string>
+      <string>ISB42 - Enhancement Shaman Keys</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -11810,6 +11813,7 @@
       <string>Shaman - Elemental</string>
       <string>Shaman - Enhancement</string>
       <string>Shaman - Restoration</string>
+      <string>ISB42 - Enhancement Shaman Keys</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -13965,6 +13969,7 @@
       <string>Shaman - Enhancement</string>
       <string>Shaman - Restoration</string>
       <string>Shaman - Restoration(DPS)</string>
+      <string>ISB42 - Elemental Shaman Keys</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -14033,6 +14038,7 @@
       <string>Shaman - Enhancement</string>
       <string>Shaman - Restoration</string>
       <string>Shaman - Restoration(DPS)</string>
+      <string>ISB42 - Elemental Shaman Keys</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -14101,6 +14107,7 @@
       <string>Shaman - Enhancement</string>
       <string>Shaman - Restoration</string>
       <string>Shaman - Restoration(DPS)</string>
+      <string>ISB42 - Elemental Shaman Keys</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -14169,6 +14176,7 @@
       <string>Shaman - Enhancement</string>
       <string>Shaman - Restoration</string>
       <string>Shaman - Restoration(DPS)</string>
+      <string>ISB42 - Elemental Shaman Keys</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -16991,7 +16999,7 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
             <Code>43</Code>
           </Key>
         </Combo>
-        <ResetTimer>30</ResetTimer>
+        <ResetTimer>31</ResetTimer>
         <ResetType>FromFirstPress</ResetType>
         <Mode>OnPressAndRelease</Mode>
         <Steps>
@@ -17421,6 +17429,9 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
                   <KeyMapString>Hunter - Beast Mastery</KeyMapString>
                 </ToMappedKey>
               </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <KeyMapString>ISB42 - Beast Mastery Hunter Keys</KeyMapString>
+              </MappedKeyAction>
             </Actions>
           </Step>
         </Steps>
@@ -17457,6 +17468,10 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
                   <KeyMapString>Hunter - Marksmanship</KeyMapString>
                 </ToMappedKey>
               </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Value>Off</Value>
+                <KeyMapString>ISB42 - Beast Mastery Hunter Keys</KeyMapString>
+              </MappedKeyAction>
             </Actions>
           </Step>
         </Steps>
@@ -17492,6 +17507,10 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
                 <ToMappedKey>
                   <KeyMapString>Hunter - Survival</KeyMapString>
                 </ToMappedKey>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Value>Off</Value>
+                <KeyMapString>ISB42 - Beast Mastery Hunter Keys</KeyMapString>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -18069,6 +18088,13 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
                   <KeyMapString>Shaman - Elemental</KeyMapString>
                 </ToMappedKey>
               </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <KeyMapString>ISB42 - Elemental Shaman Keys</KeyMapString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Value>Off</Value>
+                <KeyMapString>ISB42 - Enhancement Shaman Keys</KeyMapString>
+              </MappedKeyAction>
             </Actions>
           </Step>
         </Steps>
@@ -18105,6 +18131,13 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
                   <KeyMapString>Shaman - Enhancement</KeyMapString>
                 </ToMappedKey>
               </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <KeyMapString>ISB42 - Enhancement Shaman Keys</KeyMapString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Value>Off</Value>
+                <KeyMapString>ISB42 - Elemental Shaman Keys</KeyMapString>
+              </MappedKeyAction>
             </Actions>
           </Step>
         </Steps>
@@ -18140,6 +18173,14 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
                 <ToMappedKey>
                   <KeyMapString>Shaman - Restoration</KeyMapString>
                 </ToMappedKey>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Value>Off</Value>
+                <KeyMapString>ISB42 - Elemental Shaman Keys</KeyMapString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Value>Off</Value>
+                <KeyMapString>ISB42 - Enhancement Shaman Keys</KeyMapString>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -18774,6 +18815,152 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
                 <Target>all</Target>
                 <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
                 <MappedKeyString>-</MappedKeyString>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+    </Mappings>
+  </KeyMap>
+  <KeyMap>
+    <Name>ISB42 - Elemental Shaman Keys</Name>
+    <Mappings>
+      <MappedKey>
+        <Name>Healing Stream Totem</Name>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+\</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>\</Key>
+            <Code>43</Code>
+          </Key>
+        </Combo>
+        <ResetTimer>61</ResetTimer>
+        <ResetType>FromFirstPress</ResetType>
+        <Mode>OnPressAndRelease</Mode>
+        <Steps>
+          <Step>
+            <Stick>15</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Earthstrike-Sargeras</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Stick>15</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Lavastrike-Sargeras</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Stick>15</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Choquestrike-Sargeras</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Stick>15</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>VientoStrike-Sargeras</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+    </Mappings>
+  </KeyMap>
+  <KeyMap>
+    <Name>ISB42 - Enhancement Shaman Keys</Name>
+    <Mappings>
+      <MappedKey>
+        <Name>Healing Stream Totem</Name>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+]</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>]</Key>
+            <Code>27</Code>
+          </Key>
+        </Combo>
+        <ResetTimer>61</ResetTimer>
+        <ResetType>FromFirstPress</ResetType>
+        <Mode>OnPressAndRelease</Mode>
+        <Steps>
+          <Step>
+            <Stick>15</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Femshocki-Eitrigg</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Stick>15</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Femshocka-Eitrigg</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Stick>15</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Femshocke-Eitrigg</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Stick>15</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Femshocko-Eitrigg</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -19557,6 +19744,16 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
               <MappedKeyAction xsi:type="KeyMapAction">
                 <Target>all</Target>
                 <Value>Off</Value>
+                <KeyMapString>ISB42 - Elemental Shaman Keys</KeyMapString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Target>all</Target>
+                <Value>Off</Value>
+                <KeyMapString>ISB42 - Enhancement Shaman Keys</KeyMapString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Target>all</Target>
+                <Value>Off</Value>
                 <KeyMapString>ISB42 - Focus Healing</KeyMapString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="KeyMapAction">
@@ -19661,6 +19858,14 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
               <MappedKeyAction xsi:type="KeyMapAction">
                 <Target>all</Target>
                 <KeyMapString>ISB42 - Combat Hotkeys</KeyMapString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Target>all</Target>
+                <KeyMapString>ISB42 - Elemental Shaman Keys</KeyMapString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="KeyMapAction">
+                <Target>all</Target>
+                <KeyMapString>ISB42 - Enhancement Shaman Keys</KeyMapString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="KeyMapAction">
                 <Target>all</Target>
@@ -21104,47 +21309,6 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         </Steps>
       </MappedKey>
       <MappedKey>
-        <Name>StandardDungeonSpecs</Name>
-        <Combo>
-          <Combo>F12</Combo>
-          <Key>
-            <Key>F12</Key>
-            <Code>88</Code>
-          </Key>
-        </Combo>
-        <Steps>
-          <Step>
-            <Actions>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Featherstar-Sargeras</Target>
-                <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Druid - Guardian Spec</MappedKeyString>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Feathersun-Sargeras</Target>
-                <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Druid - Restoration Spec</MappedKeyString>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Featherhalo-Sargeras</Target>
-                <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Druid - Balance Spec</MappedKeyString>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Featherluna-Sargeras</Target>
-                <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Druid - Balance Spec</MappedKeyString>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
-                <Target>Feathernova-Sargeras</Target>
-                <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Druid - Balance Spec</MappedKeyString>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-        </Steps>
-      </MappedKey>
-      <MappedKey>
         <Name>AllGuardian</Name>
         <Combo>
           <Combo>F11</Combo>
@@ -21180,6 +21344,47 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <Target>Feathernova-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
                 <MappedKeyString>Druid - Guardian Spec</MappedKeyString>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>StandardDungeonSpecs</Name>
+        <Combo>
+          <Combo>F12</Combo>
+          <Key>
+            <Key>F12</Key>
+            <Code>88</Code>
+          </Key>
+        </Combo>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Featherstar-Sargeras</Target>
+                <KeyMapString>ISB42 - Class Specs</KeyMapString>
+                <MappedKeyString>Druid - Guardian Spec</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Feathersun-Sargeras</Target>
+                <KeyMapString>ISB42 - Class Specs</KeyMapString>
+                <MappedKeyString>Druid - Restoration Spec</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Featherhalo-Sargeras</Target>
+                <KeyMapString>ISB42 - Class Specs</KeyMapString>
+                <MappedKeyString>Druid - Balance Spec</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Featherluna-Sargeras</Target>
+                <KeyMapString>ISB42 - Class Specs</KeyMapString>
+                <MappedKeyString>Druid - Balance Spec</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Feathernova-Sargeras</Target>
+                <KeyMapString>ISB42 - Class Specs</KeyMapString>
+                <MappedKeyString>Druid - Balance Spec</MappedKeyString>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -28569,6 +28774,10 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                   <WoWMacroString>Flame Shock</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <KeyMapString>ISB42 - Elemental Shaman Keys</KeyMapString>
+                <MappedKeyString>Healing Stream Totem</MappedKeyString>
+              </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
@@ -28785,6 +28994,75 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           </Step>
         </Steps>
       </MappedKey>
+      <MappedKey>
+        <Name>Shift2</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Flame Shock</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <KeyMapString>ISB42 - Elemental Shaman Keys</KeyMapString>
+                <MappedKeyString>Healing Stream Totem</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Lava Burst</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Lightning Bolt/Flame Shock</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Fire Elemental</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Lava Burst</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Lightning Bolt/Earth Shock</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Fire Elemental/Eye of the Storm</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Lightning Bolt/Flame Shock</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
     </Mappings>
   </KeyMap>
   <KeyMap>
@@ -28801,6 +29079,10 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                   <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
                   <WoWMacroString>Flame Shock</WoWMacroString>
                 </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <KeyMapString>ISB42 - Enhancement Shaman Keys</KeyMapString>
+                <MappedKeyString>Healing Stream Totem</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
@@ -28986,12 +29268,14 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
-                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
-                </WoWMacro>
+              <MappedKeyAction xsi:type="Keystroke">
+                <Combo>
+                  <Combo>5</Combo>
+                  <Key>
+                    <Key>5</Key>
+                    <Code>6</Code>
+                  </Key>
+                </Combo>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -29026,6 +29310,10 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                   <WoWMacroSetString>Enhancement Shaman(Talents: 2131113)</WoWMacroSetString>
                   <WoWMacroString>Flame Shock</WoWMacroString>
                 </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <KeyMapString>ISB42 - Enhancement Shaman Keys</KeyMapString>
+                <MappedKeyString>Healing Stream Totem</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
@@ -32765,6 +33053,19 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>=</Key>
             <Code>13</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Healing Stream Totem</MacroCommands>
+        <ColloquialName>Healing Stream Totem</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+'</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>'</Key>
+            <Code>40</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
