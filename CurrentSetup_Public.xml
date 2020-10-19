@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/18/2020 5:35:53 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/18/2020 11:37:40 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -18835,7 +18835,7 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
             <Code>43</Code>
           </Key>
         </Combo>
-        <ResetTimer>61</ResetTimer>
+        <ResetTimer>31</ResetTimer>
         <ResetType>FromFirstPress</ResetType>
         <Mode>OnPressAndRelease</Mode>
         <Steps>
@@ -18844,6 +18844,14 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
             <Actions>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <Target>Earthstrike-Sargeras</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Choquestrike-Sargeras</Target>
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
@@ -18863,24 +18871,6 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
                   <WoWMacroString>Healing Stream Totem</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
-            </Actions>
-          </Step>
-          <Step>
-            <Stick>15</Stick>
-            <Actions>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <Target>Choquestrike-Sargeras</Target>
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
-                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-          <Step>
-            <Stick>15</Stick>
-            <Actions>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <Target>VientoStrike-Sargeras</Target>
                 <UseCustomModifiers />
@@ -18908,7 +18898,7 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
             <Code>27</Code>
           </Key>
         </Combo>
-        <ResetTimer>61</ResetTimer>
+        <ResetTimer>31</ResetTimer>
         <ResetType>FromFirstPress</ResetType>
         <Mode>OnPressAndRelease</Mode>
         <Steps>
@@ -18917,6 +18907,14 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
             <Actions>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <Target>Femshocki-Eitrigg</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Femshocke-Eitrigg</Target>
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
@@ -18936,24 +18934,6 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
                   <WoWMacroString>Healing Stream Totem</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
-            </Actions>
-          </Step>
-          <Step>
-            <Stick>15</Stick>
-            <Actions>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <Target>Femshocke-Eitrigg</Target>
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
-                  <WoWMacroString>Healing Stream Totem</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-            </Actions>
-          </Step>
-          <Step>
-            <Stick>15</Stick>
-            <Actions>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <Target>Femshocko-Eitrigg</Target>
                 <UseCustomModifiers />
