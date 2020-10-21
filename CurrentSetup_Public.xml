@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/18/2020 11:37:40 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/20/2020 11:26:43 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -10267,7 +10267,7 @@
         <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
+        <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Priest Macros</WoWMacroSetString>
@@ -10280,7 +10280,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Priest - Discipline</KeyMapString>
+          <KeyMapString>Priest - Shadow</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -10330,7 +10330,7 @@
         <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
+        <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Priest Macros</WoWMacroSetString>
@@ -10343,7 +10343,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Priest - Discipline</KeyMapString>
+          <KeyMapString>Priest - Shadow</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -10393,7 +10393,7 @@
         <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
+        <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Priest Macros</WoWMacroSetString>
@@ -10406,7 +10406,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Priest - Discipline</KeyMapString>
+          <KeyMapString>Priest - Shadow</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -10456,7 +10456,7 @@
         <WoWMacroSetString>Discipline Priest(Talents:3133111)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
-        <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
+        <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
       </WoWMacroSetLooseRef>
       <WoWMacroSetLooseRef>
         <WoWMacroSetString>Priest Macros</WoWMacroSetString>
@@ -10469,7 +10469,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Priest - Discipline</KeyMapString>
+          <KeyMapString>Priest - Shadow</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -21570,22 +21570,22 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
                 <Target>Voiddepsa-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Priest - Discipline Spec</MappedKeyString>
+                <MappedKeyString>Priest - Shadow Spec</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
                 <Target>Voiddepsb-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Priest - Discipline Spec</MappedKeyString>
+                <MappedKeyString>Priest - Shadow Spec</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
                 <Target>Voiddepsc-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Priest - Discipline Spec</MappedKeyString>
+                <MappedKeyString>Priest - Shadow Spec</MappedKeyString>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="MappedKeyExecuteAction">
                 <Target>Voiddepsd-Sargeras</Target>
                 <KeyMapString>ISB42 - Class Specs</KeyMapString>
-                <MappedKeyString>Priest - Discipline Spec</MappedKeyString>
+                <MappedKeyString>Priest - Shadow Spec</MappedKeyString>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -27989,64 +27989,71 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
                   <WoWMacroString>Shadowform</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
-                  <WoWMacroString>Shadow Word Pain</WoWMacroString>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
+                  <WoWMacroString>Vampiric Touch</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
-                  <WoWMacroString>Dark Void</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
                   <WoWMacroString>Vampiric Embrace</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
-                  <WoWMacroString>Void Eruption</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
-                  <WoWMacroString>Fade</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
-                  <WoWMacroString>Vampiric Touch/Mind Blast</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
                   <WoWMacroString>Shadowfiend</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
+                  <WoWMacroString>Shadow Word Death/Mind Flay/Vampiric Touch</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
+                  <WoWMacroString>Fade</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
+                  <WoWMacroString>Mind Blast</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
+                  <WoWMacroString>Devouring Plague</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
                   <WoWMacroString>Void Eruption</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
+                  <WoWMacroString>Void Torrent</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -28149,7 +28156,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
                   <WoWMacroString>Power Word Shield</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -28165,7 +28172,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
                   <WoWMacroString>Shadow Mend</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
@@ -28199,8 +28206,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
-                  <WoWMacroSetString>Shadow Priest(Talents: 3131111)</WoWMacroSetString>
-                  <WoWMacroString>Mind Sear/Vampiric Touch/Mind Blast</WoWMacroString>
+                  <WoWMacroSetString>Shadow Priest(Talents: 3222131)</WoWMacroSetString>
+                  <WoWMacroString>Mind Sear</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -28895,14 +28902,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>3</Combo>
-                  <Key>
-                    <Key>3</Key>
-                    <Code>4</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Elemental Shaman(Talents:2132121)</WoWMacroSetString>
+                  <WoWMacroString>Earth Elemental</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -33050,6 +33055,19 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         </Combo>
         <AllowCustomModifiers />
       </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast Earth Elemental</MacroCommands>
+        <ColloquialName>Earth Elemental</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+;</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>;</Key>
+            <Code>39</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
@@ -34595,10 +34613,10 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
     </WoWMacros>
   </WoWMacroSet>
   <WoWMacroSet>
-    <Name>Shadow Priest(Talents: 3131111)</Name>
+    <Name>Shadow Priest(Talents: 3222131)</Name>
     <WoWMacros>
       <WoWMacro>
-        <MacroCommands>/cast [form:0] Shadowform</MacroCommands>
+        <MacroCommands>/cast [nochanneling,noform:1] Shadowform</MacroCommands>
         <ColloquialName>Shadowform</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+1</Combo>
@@ -34611,8 +34629,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/castsequence [nochanneling] reset=target  Shadow Word: Pain, null</MacroCommands>
-        <ColloquialName>Shadow Word Pain</ColloquialName>
+        <MacroCommands>/castsequence [nochanneling,exists] reset=target  Vampiric Touch, null</MacroCommands>
+        <ColloquialName>Vampiric Touch</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+2</Combo>
           <Modifiers>Shift Alt</Modifiers>
@@ -34624,8 +34642,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [nochanneling] Dark Void</MacroCommands>
-        <ColloquialName>Dark Void</ColloquialName>
+        <MacroCommands>/cast [nochanneling,combat,exists] Vampiric Embrace</MacroCommands>
+        <ColloquialName>Vampiric Embrace</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+3</Combo>
           <Modifiers>Shift Alt</Modifiers>
@@ -34637,8 +34655,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [nochanneling] Vampiric Embrace</MacroCommands>
-        <ColloquialName>Vampiric Embrace</ColloquialName>
+        <MacroCommands>/cast [nochanneling,combat,exists] Shadowfiend</MacroCommands>
+        <ColloquialName>Shadowfiend</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+4</Combo>
           <Modifiers>Shift Alt</Modifiers>
@@ -34650,8 +34668,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [nochanneling] Void Eruption</MacroCommands>
-        <ColloquialName>Void Eruption</ColloquialName>
+        <MacroCommands>/castsequence [nochanneling,exists] reset=target  Shadow Word: Death, Mind Flay, Vampiric Touch, Vampiric Touch, Mind Flay</MacroCommands>
+        <ColloquialName>Shadow Word Death/Mind Flay/Vampiric Touch</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+5</Combo>
           <Modifiers>Shift Alt</Modifiers>
@@ -34663,8 +34681,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/castsequence [nochanneling] reset=combat  Vampiric Touch, Mind Blast, Mind Blast, Mind Flay</MacroCommands>
-        <ColloquialName>Vampiric Touch/Mind Blast</ColloquialName>
+        <MacroCommands>/castsequence [nochanneling,exists] Mind Blast</MacroCommands>
+        <ColloquialName>Mind Blast</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+6</Combo>
           <Modifiers>Shift Alt</Modifiers>
@@ -34676,8 +34694,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [nochanneling] Shadowfiend</MacroCommands>
-        <ColloquialName>Shadowfiend</ColloquialName>
+        <MacroCommands>/cast [nochanneling,exists] Devouring Plague</MacroCommands>
+        <ColloquialName>Devouring Plague</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+7</Combo>
           <Modifiers>Shift Alt</Modifiers>
@@ -34689,8 +34707,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [combat,nochanneling] Fade</MacroCommands>
-        <ColloquialName>Fade</ColloquialName>
+        <MacroCommands>/cast [nochanneling,exists] Void Eruption</MacroCommands>
+        <ColloquialName>Void Eruption</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+8</Combo>
           <Modifiers>Shift Alt</Modifiers>
@@ -34702,8 +34720,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/castsequence [nochanneling] reset=combat  Mind Sear, Vampiric Touch, Mind Blast, Mind Sear, Mind Blast, Mind Sear</MacroCommands>
-        <ColloquialName>Mind Sear/Vampiric Touch/Mind Blast</ColloquialName>
+        <MacroCommands>/cast [nochanneling,combat,exists] Void Torrent</MacroCommands>
+        <ColloquialName>Void Torrent</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+9</Combo>
           <Modifiers>Shift Alt</Modifiers>
@@ -34715,8 +34733,8 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [@targettarget,nochanneling,combat][@target,nochanneling,combat] Power Word: Shield</MacroCommands>
-        <ColloquialName>Power Word Shield</ColloquialName>
+        <MacroCommands>/cast [nochanneling] Mind Sear</MacroCommands>
+        <ColloquialName>Mind Sear</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+0</Combo>
           <Modifiers>Shift Alt</Modifiers>
@@ -34728,14 +34746,40 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <AllowCustomModifiers />
       </WoWMacro>
       <WoWMacro>
-        <MacroCommands>/cast [@mouseover,nochanneling] Shadow Mend</MacroCommands>
-        <ColloquialName>Shadow Mend</ColloquialName>
+        <MacroCommands>/cast [combat,nochanneling] Fade</MacroCommands>
+        <ColloquialName>Fade</ColloquialName>
         <Combo>
           <Combo>Shift+Alt+-</Combo>
           <Modifiers>Shift Alt</Modifiers>
           <Key>
             <Key>-</Key>
             <Code>12</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [@targettarget,nochanneling,combat][@target,nochanneling,combat] Power Word: Shield</MacroCommands>
+        <ColloquialName>Power Word Shield</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+=</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>=</Key>
+            <Code>13</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [@mouseover] Shadow Mend</MacroCommands>
+        <ColloquialName>Shadow Mend</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+'</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>'</Key>
+            <Code>40</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
