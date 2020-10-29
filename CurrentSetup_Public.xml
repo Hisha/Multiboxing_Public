@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/26/2020 6:29:49 PM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/29/2020 12:21:12 AM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -23725,6 +23725,86 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           </Step>
         </Steps>
       </MappedKey>
+      <MappedKey>
+        <Name>Blinding Light</Name>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+/</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>/</Key>
+            <Code>53</Code>
+          </Key>
+        </Combo>
+        <ResetTimer>90</ResetTimer>
+        <ResetType>FromFirstPress</ResetType>
+        <Steps>
+          <Step>
+            <Stick>18</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Scaryspicé-Sargeras</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Blinding Light</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Stick>18</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Sportyspicé-Sargeras</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Blinding Light</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Stick>18</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Babyspicé-Sargeras</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Blinding Light</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Stick>18</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Gingerspicé-Sargeras</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Blinding Light</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Stick>18</Stick>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <Target>Poshspicé-Sargeras</Target>
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Blinding Light</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
     </Mappings>
   </KeyMap>
   <KeyMap>
@@ -27828,6 +27908,10 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                   <WoWMacroString>Avenging Wrath</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <KeyMapString>SpiceGirls Keys</KeyMapString>
+                <MappedKeyString>Blinding Light</MappedKeyString>
+              </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
@@ -27854,6 +27938,13 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <WoWMacro>
                   <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Hammer of Righteous/Consecration</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Word of Glory</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -28033,6 +28124,10 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                   <WoWMacroString>Avenging Wrath</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <KeyMapString>SpiceGirls Keys</KeyMapString>
+                <MappedKeyString>Blinding Light</MappedKeyString>
+              </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
@@ -28059,6 +28154,13 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <WoWMacro>
                   <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Hammer of Righteous/Consecration</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Word of Glory</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -35206,6 +35308,32 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           <Key>
             <Key>;</Key>
             <Code>39</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [@player] Word of Glory</MacroCommands>
+        <ColloquialName>Word of Glory</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+.</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>.</Key>
+            <Code>52</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [combat] Blinding Light</MacroCommands>
+        <ColloquialName>Blinding Light</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Shift+Alt+,</Combo>
+          <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>,</Key>
+            <Code>51</Code>
           </Key>
         </Combo>
         <AllowCustomModifiers />
