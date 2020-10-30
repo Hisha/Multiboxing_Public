@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/29/2020 12:21:12 AM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/30/2020 12:10:27 AM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -10726,8 +10726,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -10762,7 +10764,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Paladin - Protection</KeyMapString>
+          <KeyMapString>Paladin - Protection(WOG)</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -11762,8 +11764,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -11827,8 +11831,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -11866,7 +11872,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Paladin - Protection</KeyMapString>
+          <KeyMapString>Paladin - Protection(SOR)</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -11892,8 +11898,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -11954,8 +11962,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -12016,8 +12026,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -12775,8 +12787,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -12811,7 +12825,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Paladin - Protection</KeyMapString>
+          <KeyMapString>Paladin - Protection(SOR)</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -13110,8 +13124,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -14810,8 +14826,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -15156,8 +15174,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -15757,8 +15777,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -15847,8 +15869,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -15889,7 +15913,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Paladin - Protection</KeyMapString>
+          <KeyMapString>Paladin - Protection(WOG)</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -15915,8 +15939,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -15957,7 +15983,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Paladin - Protection</KeyMapString>
+          <KeyMapString>Paladin - Protection(WOG)</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -15983,8 +16009,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -16025,7 +16053,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Paladin - Protection</KeyMapString>
+          <KeyMapString>Paladin - Protection(WOG)</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -16051,8 +16079,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -16093,7 +16123,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Paladin - Protection</KeyMapString>
+          <KeyMapString>Paladin - Protection(WOG)</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -16119,8 +16149,10 @@
     </RelayGroupStrings>
     <KeyMapStrings>
       <string>Paladin - Holy</string>
-      <string>Paladin - Protection</string>
+      <string>Paladin - Protection(SOR)</string>
       <string>Paladin - Retribution</string>
+      <string>Paladin - Protection(WOG)</string>
+      <string>ISB42 - SORvsWOG</string>
     </KeyMapStrings>
     <KeyMapWhiteOrBlackListType>Ignore</KeyMapWhiteOrBlackListType>
     <KeyMapWhiteOrBlackList />
@@ -16161,7 +16193,7 @@
           <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
         </FromMappedKey>
         <ToMappedKey>
-          <KeyMapString>Paladin - Protection</KeyMapString>
+          <KeyMapString>Paladin - Protection(WOG)</KeyMapString>
         </ToMappedKey>
       </VirtualMappedKey>
     </VirtualMappedKeys>
@@ -18729,7 +18761,7 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
                   <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
                 </FromMappedKey>
                 <ToMappedKey>
-                  <KeyMapString>Paladin - Protection</KeyMapString>
+                  <KeyMapString>Paladin - Protection(SOR)</KeyMapString>
                 </ToMappedKey>
               </MappedKeyAction>
             </Actions>
@@ -20609,6 +20641,45 @@ See http://isboxer.com/wiki/WoW:Interact_with_Target.</Description>
             <Actions>
               <MappedKeyAction xsi:type="VariableKeystrokeAction">
                 <Name>Invite Team</Name>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+    </Mappings>
+  </KeyMap>
+  <KeyMap>
+    <Name>ISB42 - SORvsWOG</Name>
+    <Mappings>
+      <MappedKey>
+        <Name>SOR Enabled</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyRewriteAction">
+                <FromMappedKey>
+                  <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
+                </FromMappedKey>
+                <ToMappedKey>
+                  <KeyMapString>Paladin - Protection(SOR)</KeyMapString>
+                </ToMappedKey>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>WOG Enabled</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyRewriteAction">
+                <FromMappedKey>
+                  <KeyMapString>ISB42 - Virtual Combat</KeyMapString>
+                </FromMappedKey>
+                <ToMappedKey>
+                  <KeyMapString>Paladin - Protection(WOG)</KeyMapString>
+                </ToMappedKey>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -22564,6 +22635,48 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
           </Step>
         </Steps>
       </MappedKey>
+      <MappedKey>
+        <Name>SORvsWOG</Name>
+        <Combo>
+          <Combo>F4</Combo>
+          <Key>
+            <Key>F4</Key>
+            <Code>62</Code>
+          </Key>
+        </Combo>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Shieldbuster-Sargeras</Target>
+                <KeyMapString>ISB42 - SORvsWOG</KeyMapString>
+                <MappedKeyString>SOR Enabled</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="PopupTextAction">
+                <Text>SOR Active!!!!</Text>
+                <DurationMS>1000</DurationMS>
+                <Green>0</Green>
+                <Blue>0</Blue>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Shieldbuster-Sargeras</Target>
+                <KeyMapString>ISB42 - SORvsWOG</KeyMapString>
+                <MappedKeyString>WOG Enabled</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="PopupTextAction">
+                <Text>WOG Active!!!!</Text>
+                <DurationMS>1000</DurationMS>
+                <Red>0</Red>
+                <Blue>0</Blue>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
     </Mappings>
   </KeyMap>
   <KeyMap>
@@ -23800,6 +23913,88 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                   <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Blinding Light</WoWMacroString>
                 </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>SORvsWOG</Name>
+        <Combo>
+          <Combo>F4</Combo>
+          <Key>
+            <Key>F4</Key>
+            <Code>62</Code>
+          </Key>
+        </Combo>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Scaryspicé-Sargeras</Target>
+                <KeyMapString>ISB42 - SORvsWOG</KeyMapString>
+                <MappedKeyString>SOR Enabled</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Sportyspicé-Sargeras</Target>
+                <KeyMapString>ISB42 - SORvsWOG</KeyMapString>
+                <MappedKeyString>SOR Enabled</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Babyspicé-Sargeras</Target>
+                <KeyMapString>ISB42 - SORvsWOG</KeyMapString>
+                <MappedKeyString>SOR Enabled</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Gingerspicé-Sargeras</Target>
+                <KeyMapString>ISB42 - SORvsWOG</KeyMapString>
+                <MappedKeyString>SOR Enabled</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Poshspicé-Sargeras</Target>
+                <KeyMapString>ISB42 - SORvsWOG</KeyMapString>
+                <MappedKeyString>SOR Enabled</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="PopupTextAction">
+                <Text>SOR Active!!!!</Text>
+                <DurationMS>1000</DurationMS>
+                <Green>0</Green>
+                <Blue>0</Blue>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Scaryspicé-Sargeras</Target>
+                <KeyMapString>ISB42 - SORvsWOG</KeyMapString>
+                <MappedKeyString>WOG Enabled</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Sportyspicé-Sargeras</Target>
+                <KeyMapString>ISB42 - SORvsWOG</KeyMapString>
+                <MappedKeyString>WOG Enabled</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Babyspicé-Sargeras</Target>
+                <KeyMapString>ISB42 - SORvsWOG</KeyMapString>
+                <MappedKeyString>WOG Enabled</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Gingerspicé-Sargeras</Target>
+                <KeyMapString>ISB42 - SORvsWOG</KeyMapString>
+                <MappedKeyString>WOG Enabled</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <Target>Poshspicé-Sargeras</Target>
+                <KeyMapString>ISB42 - SORvsWOG</KeyMapString>
+                <MappedKeyString>WOG Enabled</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="PopupTextAction">
+                <Text>WOG Active!!!!</Text>
+                <DurationMS>1000</DurationMS>
+                <Red>0</Red>
+                <Blue>0</Blue>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -27873,7 +28068,7 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
     </Mappings>
   </KeyMap>
   <KeyMap>
-    <Name>Paladin - Protection</Name>
+    <Name>Paladin - Protection(SOR)</Name>
     <Mappings>
       <MappedKey>
         <Name>DPS Rotation</Name>
@@ -27938,13 +28133,6 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                 <WoWMacro>
                   <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Hammer of Righteous/Consecration</WoWMacroString>
-                </WoWMacro>
-              </MappedKeyAction>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
-                  <WoWMacroString>Word of Glory</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -28042,14 +28230,12 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="Keystroke">
-                <Combo>
-                  <Combo>4</Combo>
-                  <Key>
-                    <Key>4</Key>
-                    <Code>5</Code>
-                  </Key>
-                </Combo>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Flash of Light</WoWMacroString>
+                </WoWMacro>
               </MappedKeyAction>
             </Actions>
           </Step>
@@ -28156,11 +28342,317 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
                   <WoWMacroString>Hammer of Righteous/Consecration</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>I</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Cleanse Toxins</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>P</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Lay on Hands</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+    </Mappings>
+  </KeyMap>
+  <KeyMap>
+    <Name>Paladin - Protection(WOG)</Name>
+    <Mappings>
+      <MappedKey>
+        <Name>DPS Rotation</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Ardent Defender</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Hammer of Wrath</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
               <MappedKeyAction xsi:type="WoWMacroRefAction">
                 <UseCustomModifiers />
                 <WoWMacro>
                   <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
                   <WoWMacroString>Word of Glory</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Avenging Wrath</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <KeyMapString>SpiceGirls Keys</KeyMapString>
+                <MappedKeyString>Blinding Light</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Avengers Shield</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Judgment</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Consecration</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Hammer of Righteous/Consecration</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>Interrupt</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Rebuke</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>Stun</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Hammer of Justice</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>Taunt</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Hand of Reckoning</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>Pull</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Avengers Shield</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>Spellup</Name>
+        <Steps />
+      </MappedKey>
+      <MappedKey>
+        <Name>Key3</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="Keystroke">
+                <Combo>
+                  <Combo>3</Combo>
+                  <Key>
+                    <Key>3</Key>
+                    <Code>4</Code>
+                  </Key>
+                </Combo>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>Key4</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Flash of Light</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>Key5</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="Keystroke">
+                <Combo>
+                  <Combo>5</Combo>
+                  <Key>
+                    <Key>5</Key>
+                    <Code>6</Code>
+                  </Key>
+                </Combo>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>Key6</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="Keystroke">
+                <Combo>
+                  <Combo>6</Combo>
+                  <Key>
+                    <Key>6</Key>
+                    <Code>7</Code>
+                  </Key>
+                </Combo>
+              </MappedKeyAction>
+            </Actions>
+          </Step>
+        </Steps>
+      </MappedKey>
+      <MappedKey>
+        <Name>Shift2</Name>
+        <Steps>
+          <Step>
+            <Actions>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Ardent Defender</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Hammer of Wrath</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Word of Glory</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Avenging Wrath</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="MappedKeyExecuteAction">
+                <KeyMapString>SpiceGirls Keys</KeyMapString>
+                <MappedKeyString>Blinding Light</MappedKeyString>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Avengers Shield</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Judgment</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Consecration</WoWMacroString>
+                </WoWMacro>
+              </MappedKeyAction>
+              <MappedKeyAction xsi:type="WoWMacroRefAction">
+                <UseCustomModifiers />
+                <WoWMacro>
+                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
+                  <WoWMacroString>Hammer of Righteous/Consecration</WoWMacroString>
                 </WoWMacro>
               </MappedKeyAction>
             </Actions>
@@ -35331,6 +35823,19 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Combo>
           <Combo>Ctrl+Shift+Alt+,</Combo>
           <Modifiers>Ctrl Shift Alt</Modifiers>
+          <Key>
+            <Key>,</Key>
+            <Code>51</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers />
+      </WoWMacro>
+      <WoWMacro>
+        <MacroCommands>/cast [@player] Flash of Light</MacroCommands>
+        <ColloquialName>Flash of Light</ColloquialName>
+        <Combo>
+          <Combo>Ctrl+Alt+,</Combo>
+          <Modifiers>Ctrl Alt</Modifiers>
           <Key>
             <Key>,</Key>
             <Code>51</Code>
