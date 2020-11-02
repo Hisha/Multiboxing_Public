@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="10/30/2020 12:10:27 AM">
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="42" VersionMinor="0" BuildDate="11/1/2020 6:42:01 PM">
   <CharacterSet>
     <ExecuteOnLoad />
     <Name>AstleyCrew-Eitrigg</Name>
@@ -28230,12 +28230,14 @@ The Quick Setup Wizard uses this and similar mappings for whatever character swi
         <Steps>
           <Step>
             <Actions>
-              <MappedKeyAction xsi:type="WoWMacroRefAction">
-                <UseCustomModifiers />
-                <WoWMacro>
-                  <WoWMacroSetString>Protection Paladin(Talents:3131112)</WoWMacroSetString>
-                  <WoWMacroString>Flash of Light</WoWMacroString>
-                </WoWMacro>
+              <MappedKeyAction xsi:type="Keystroke">
+                <Combo>
+                  <Combo>4</Combo>
+                  <Key>
+                    <Key>4</Key>
+                    <Code>5</Code>
+                  </Key>
+                </Combo>
               </MappedKeyAction>
             </Actions>
           </Step>
